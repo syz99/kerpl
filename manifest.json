@@ -1,16 +1,23 @@
 {
-    "manifest_version": 2,
+  "manifest_version": 2,
+  "name": "kerplUNC",
+  "description": "This extension provides an all-encompassing dashboard for UNC-CH students.",
+  "version": "1.0",
+  "author": "Samuel Zhang",
   
-    "name": "kerplUNC",
-    "description": "This extension provides an all-encompassing dashboard for UNC-CH students..",
-    "version": "1.0",
-  
-    "browser_action": {
-      "default_icon": "class.png",
-      "default_popup": "popup.html"
-    },
-    "permissions": [
-      "activeTab",
-      "storage"
-    ]
+  "page_action": {
+    "default_icon": "unc.png",
+    "default_title": "kerplUNC"
+  },
+
+  "chrome_url_overrides": {
+    "newtab": "dashboard.html"
+  },
+
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
 }

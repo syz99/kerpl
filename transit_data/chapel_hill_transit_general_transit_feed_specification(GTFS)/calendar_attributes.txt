@@ -1,0 +1,11 @@
+service_id,service_description
+c_930_b_6572_d_96,U & NU (Weekend)
+c_930_b_6339_d_96,U & NU (Weekend)
+c_929_b_6328_d_56,Safe Rides
+c_927_b_6338_d_31,Academic Calendar (Monday-Friday)
+c_782_b_18_d_32,Year-round calendar (Saturday only)
+c_782_b_18_d_31,Year-round calendar (Monday-Friday)
+c_6100_b_6467_d_31,CHT EXPRESS (Monday-Friday)
+c_2710_b_6329_d_56,SAFE J DETOUR
+c_2625_b_1144_d_31,J Resume - 8/5/17 (Monday-Friday)
+c_2624_b_2728_d_31,J Detour - 6/3/17 (Monday-Friday)

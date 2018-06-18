@@ -1,0 +1,587 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+778518,3093,,Barclay Rd at Williams Circle (WB),,35.929491,-79.05832,,,0,,America/New_York,,,0
+778607,3187,,S Columbia St at Purefoy Rd,,35.895564,-79.058281,,,0,,America/New_York,,,0
+778561,3138,,Jones Ferry Park-and-Ride,,35.901517,-79.090333,,,0,,America/New_York,,,0
+778995,3653,,Carrboro High School,,35.892566,-79.084281,,,0,,America/New_York,,,0
+778917,3543,,Carol St at Lisa St,,35.92234,-79.09711,,,0,,America/New_York,,,0
+778898,3523,,Carol St at #111,,35.92241,-79.091568,,,0,,America/New_York,,,0
+778906,3532,,N Greensboro St at Cheek Ave,,35.920709,-79.080233,,,0,,America/New_York,,,0
+778953,3588,,Friday Center Park-and-Ride (UNC),,35.901417,-79.012267,,,0,,America/New_York,,,0
+778571,3148,,Westminster Dr at Martin Luther King Jr Blvd (WB),,35.961301,-79.05672,,,0,,America/New_York,,,0
+778591,3168,,Highgrove Dr at Parkview Crescent,,35.885818,-79.069694,,,0,,America/New_York,,,0
+778854,3475,,Ephesus Church Rd at Tinkerbell Rd,,35.932481,-79.01199,,,0,,America/New_York,,,0
+778445,3001,,Summerfield Crossing Rd at Gristmill Ln,,35.943653,-79.025334,,,0,,America/New_York,,,0
+778672,3259,,E Franklin St at Estes Dr,,35.928711,-79.03466,,,0,,America/New_York,,,0
+778596,3173,,Rock Haven Rd at Smith Level Rd,,35.89189,-79.08005,,,0,,America/New_York,,,0
+778725,3320,,Curtis Rd at Lyons Rd,,35.9377445979711,-79.0412130636109,,,0,,America/New_York,,,0
+778595,3172,,Rock Haven Rd at Rock Creek West,,35.89193,-79.08316,,,0,,America/New_York,,,0
+778861,3482,,W Franklin St at Municipal Parking,,35.9108,-79.06175,,,0,,America/New_York,,,0
+778533,3110,,Europa Dr at Fordham Blvd (Sheraton Chapel Hill),,35.94101,-79.01804,,,0,,America/New_York,,,0
+778950,3585,,Merritt Mill Rd at Lincoln Center,,35.90305,-79.066867,,,0,,America/New_York,,,0
+778763,3372,,Estes Dr at Community Center Dr,,35.927951,-79.03236,,,0,,America/New_York,,,0
+778885,3509,,E Main St at Lloyd St,,35.91084,-79.06823,,,0,,America/New_York,,,0
+778733,3328,,Barclay Rd at Wyrick St,,35.928921,-79.06005,,,0,,America/New_York,,,0
+778935,3568,,W Rosemary St at Pritchard Ave,,35.913367,-79.058067,,,0,,America/New_York,,,0
+778593,3170,,Rock Haven Rd at Renee Lynn Ct,,35.891783,-79.080144,,,0,,America/New_York,,,0
+778912,3538,,N Greensboro St at Oak Ave,,35.91688,-79.07353,,,0,,America/New_York,,,0
+778739,3334,,Martin Luther King Jr Blvd at Ashley Forest Dr,,35.944591,-79.05793,,,0,,America/New_York,,,0
+778472,3043,,Smith Level Rd at Public Works Dept,,35.90044,-79.07396,,,0,,America/New_York,,,0
+778782,3394,,Hamilton Rd at Maxwell Rd 2,,35.913263,-79.023685,,,0,,America/New_York,,,0
+778613,3193,,Culbreth Rd at Culbreth Park Dr,,35.891848,-79.064334,,,0,,America/New_York,,,0
+778752,3361,,Brandon Rd at Hamilton Rd,,35.915074,-79.023486,,,0,,America/New_York,,,0
+778720,3315,,N Lakeshore Dr at #2122,,35.9487141195531,-79.0345685413814,,,0,,America/New_York,,,0
+778946,3581,,Weaver St at Lindsay St,,35.911183,-79.0758,,,0,,America/New_York,,,0
+778455,3026,,Friday Center Dr at Finley Forest Park,,35.89921,-79.01103,,,0,,America/New_York,,,0
+778992,3646,,US 15-501 North at Bennett Rd,,35.8863,-79.06137,,,0,,America/New_York,,,0
+778462,3033,,Pritchard Ave Ext at Trinity Ct,,35.91984,-79.060897,,,0,,America/New_York,,,0
+778669,3256,,E Franklin St at N Boundary St,,35.91669,-79.046793,,,0,,America/New_York,,,0
+778659,3246,,Hillsborough St at Martin Luther King Jr Blvd,,35.925102,-79.053631,,,0,,America/New_York,,,0
+779013,3692,,Rogers Rd at Rusch Rd,,35.957425,-79.08219,,,0,,America/New_York,,,0
+778539,3116,,Summerfield Crossing Rd at Berry Patch Ln,Located just north of the junction of Mossbark Lane with Summerfield Crossing Road; directly across the street from #3469.,35.943641,-79.022148,,,0,,America/New_York,,,0
+778488,3061,,Ephesus Church Rd at Eden Ln,,35.932341,-79.01639,,,0,,America/New_York,,,0
+778870,3491,,Davie Rd at Jones Ferry Rd (BP Station),,35.907064,-79.083546,,,0,,America/New_York,,,0
+778764,3373,,Estes Dr at US 15-501 Bypass,,35.925191,-79.02598,,,0,,America/New_York,,,0
+778466,3037,,Village Dr at Winding Creek,,35.921934,-79.065863,,,0,,America/New_York,,,0
+778908,3534,,N Greensboro St at Sue Ann Ct,,35.91881,-79.077206,,,0,,America/New_York,,,0
+778845,3465,,NC 54 West at Royal Park,,35.90297,-79.07798,,,0,,America/New_York,,,0
+778713,3308,,Booker Creek Rd at Lakeshore Ln,,35.949621,-79.02693,,,0,,America/New_York,,,0
+778555,3132,,Old Fayetteville Rd at NC 54 (SECU),,35.91862,-79.09867,,,0,,America/New_York,,,0
+778866,3487,,W Poplar Ave at NC 54,,35.9128,-79.09129,,,0,,America/New_York,,,0
+778489,3062,,Ephesus Church Rd at Frances St,,35.932561,-79.0184,,,0,,America/New_York,,,0
+778815,3429,,Umstead Dr at Pritchard Ave Ext,,35.92247,-79.0607,,,0,,America/New_York,,,0
+810901,3708,,Merritt Mill Rd at S Greenboro St,"Located south-southeast of the intersection of Merritt Mill Road with South Greensboro Street, almost directly across the street from the Frank Porter Graham Child Development Institute.",35.9012689428485,-79.0724315035753,,,0,,America/New_York,,,0
+778617,3197,,Culbreth Rd at Covenant Pl,,35.893779,-79.075796,,,0,,America/New_York,,,0
+778748,3357,,W Barbee Ch Rd at Weaver Mine Tr,,35.90612,-79.01289,,,0,,America/New_York,,,0
+778485,3058,,RR Lot,,35.930581,-79.0649,,,0,,America/New_York,,,0
+778786,3398,,South Rd at Raleigh St,,35.91009,-79.04633,,,0,,America/New_York,,,0
+801472,3654,,Highland Hills at Turnaround Circle,Located just North of roundabout at Highland Hills Dr and Tar Hill Dr.,35.8939344069945,-79.0858831809683,,,0,,America/New_York,,,0
+778444,3000,,Fountain Ridge Rd at Overland Dr,,35.936759,-79.00819,,,0,,America/New_York,,,0
+778465,3036,,Village Dr at Fernwood Ln,,35.92069,-79.06731,,,0,,America/New_York,,,0
+778910,3536,,N Greensboro St at Todd St,,35.917576,-79.075439,,,0,,America/New_York,,,0
+778631,3215,,South Rd at Kenan Labs,,35.908699,-79.051116,,,0,,America/New_York,,,0
+778568,3145,,Jones Ferry at PTA Thrift Store,,35.909816,-79.075304,,,0,,America/New_York,,,0
+778652,3238,,Manning Dr at Hospital Parking Deck,,35.90316,-79.05125,,,0,,America/New_York,,,0
+778734,3329,,Orange County Social Services,,35.948901,-79.06492,,,0,,America/New_York,,,0
+778842,3462,,Old Oxford Rd at Booker Creek Rd,,35.945751,-79.02367,,,0,,America/New_York,,,0
+778882,3505,,E Main St at Weaver St Realty,,35.91045,-79.07074,,,0,,America/New_York,,,0
+778630,3214,,South Rd at Coker Hall,,35.908606,-79.051501,,,0,,America/New_York,,,0
+779007,3686,,Homestead Rd at Sterling Bridge Rd,,35.950015,-79.08121,,,0,,America/New_York,,,0
+778634,3219,,S Columbia St at Mason Farm Rd,,35.90239,-79.0565,,,0,,America/New_York,,,0
+778699,3287,,Old Sterling Rd at Notting Hill Apts,,35.951275,-79.011538,,,0,,America/New_York,,,0
+778858,3479,,Martin Luther King Jr Blvd at Shadowood Ct (NB),,35.937103,-79.05639,,,0,,America/New_York,,,0
+778892,3516,,High St at Goldston Ave,,35.916226,-79.086125,,,0,,America/New_York,,,0
+778487,3060,,Ephesus Church Rd at Ephesus School,,35.932523,-79.016286,,,0,,America/New_York,,,0
+778562,3139,,Old Fayetteville Rd at Poplar Place (NB),,35.90319,-79.09093,,,0,,America/New_York,,,0
+779008,3687,,Homestead Rd at Sterling Bridge Rd,,35.950149,-79.0814,,,0,,America/New_York,,,0
+778868,3489,,Jones Ferry Rd at Abbey Court,,35.9067665497073,-79.0830319961109,,,0,,America/New_York,,,0
+778524,3101,,Legion Rd at Britthaven Shelter,,35.939621,-79.0167,,,0,,America/New_York,,,0
+778639,3224,,Pittsboro St at University Dr,,35.90528,-79.05514,,,0,,America/New_York,,,0
+778749,3358,,Friday Center Dr at Park-and-Ride Driveway,,35.90058,-79.0115,,,0,,America/New_York,,,0
+778754,3363,,Brandon Rd at Hayes Rd,,35.915132,-79.025808,,,0,,America/New_York,,,0
+779009,3688,,Rogers Rd at Claymore Rd,,35.952671,-79.08101,,,0,,America/New_York,,,0
+778744,3353,,Exchange at Meadowmont,,35.90361,-79.01662,,,0,,America/New_York,,,0
+778456,3027,,Friday Center Dr at Friday Center,,35.89962,-79.01127,,,0,,America/New_York,,,0
+778921,3548,,Hillsborough Rd at Old Fayetteville,,35.93342,-79.101956,,,0,,America/New_York,,,0
+778874,3495,,Davie Rd at Bert St,,35.909521,-79.084053,,,0,,America/New_York,,,0
+778508,3083,,Weaver Dairy Rd at Steeplechase Rd,,35.962051,-79.03694,,,0,,America/New_York,,,0
+778499,3074,,N Lakeshore Dr at Rock Creek Rd,,35.94116,-79.040045,,,0,,America/New_York,,,0
+778977,3613,,Seawell School Rd at Woodleaf Dr,,35.930431,-79.06945,,,0,,America/New_York,,,0
+778827,3446,,Bradley Rd at Williams Circle (SB),,35.925915,-79.058285,,,0,,America/New_York,,,0
+778468,3039,,Umstead Dr at Bolinwood Apts,,35.92266,-79.06505,,,0,,America/New_York,,,0
+778640,3225,,Bowles Dr at Kenan-Flagler Lot,,35.90168,-79.04409,,,0,,America/New_York,,,0
+778965,3601,,W Poplar Ave at Raven Ln,,35.91281,-79.08634,,,0,,America/New_York,,,0
+779010,3689,,Rogers Rd at Sylvan Way,,35.952717,-79.08068,,,0,,America/New_York,,,0
+778871,3492,,Jones Ferry at Barnes St,,35.9082,-79.07962,,,0,,America/New_York,,,0
+778655,3242,,Martin Luther King Jr Blvd at Barclay Rd (SB),,35.930761,-79.05518,,,0,,America/New_York,,,0
+778819,3437,,S Columbia St at Sitterson Hall (ROTC),,35.9092510911722,-79.0532500843673,,,0,,America/New_York,,,0
+778697,3285,,Coleridge Dr at Presque Isle Ln,"Shelter stop along Coleridge Drive, just below junction with Presque Isle Lane.",35.949431,-79.01644,,,0,,America/New_York,,,0
+778584,3161,,Ridge Rd at Ehringhaus Hall,,35.904116,-79.044178,,,0,,America/New_York,,,0
+778451,3016,,Colony Woods Dr at White Plains Rd,,35.931238,-79.00191,,,0,,America/New_York,,,0
+778881,3504,,E Main St at Jade Palace,,35.9104593927621,-79.0713990282302,,,0,,America/New_York,,,0
+778544,3121,,Dobbins Dr at Franklin Square,,35.938681,-79.02456,,,0,,America/New_York,,,0
+778692,3280,,Standish Dr at St Andrews Ln,,35.939428,-79.009837,,,0,,America/New_York,,,0
+778619,3203,,Cameron Ave at S Roberson St,,35.90775,-79.06202,,,0,,America/New_York,,,0
+778637,3222,,S Columbia St at Carrington Hall,,35.906938,-79.052779,,,0,,America/New_York,,,0
+778900,3525,,Hillsborough Rd at Blueridge Rd,,35.922238,-79.087493,,,0,,America/New_York,,,0
+778577,3154,,BPW Club Rd at The Villages,,35.895463,-79.079544,,,0,,America/New_York,,,0
+778913,3539,,N Greensboro St at Cedar Ct,,35.914899,-79.07212,,,0,,America/New_York,,,0
+779021,3700,,Finley Golf Course Rd at NC 54,,35.9055393753524,-79.0190538773155,,,0,,America/New_York,,,0
+778862,3483,,W Franklin St at UNC Business Office,,35.91074,-79.06213,,,0,,America/New_York,,,0
+778633,3217,,Stadium Dr at Carmichael Hall,,35.908319,-79.046974,,,0,,America/New_York,,,0
+778767,3377,,University Place,"Located on a traffic island at the north-northwest corner of University Place mall, behind the old bank on that corner of the property.  It is believed buses will enter the shopping center at SunTrust bank, go in front of University Place, then exit left onto Willow Drive.",35.9282993801853,-79.0292702764741,,,0,,America/New_York,,,0
+778859,3480,,Estes Dr at Methodist Church,,35.935291,-79.05531,,,0,,America/New_York,,,0
+778553,3130,,NC 54 East at Berkshire Manor West,,35.915003,-79.092978,,,0,,America/New_York,,,0
+778968,3604,,W Main St at Simpson St,,35.91717,-79.09151,,,0,,America/New_York,,,0
+778673,3260,,E Franklin St at Estes Dr,,35.928801,-79.03443,,,0,,America/New_York,,,0
+778679,3267,,E Franklin St at Howell Ln,,35.922526,-79.03888,,,0,,America/New_York,,,0
+778601,3179,,S Columbia St at Frat Ct,,35.911736,-79.055037,,,0,,America/New_York,,,0
+778491,3064,,Ephesus Church Rd at Hamlin Park Con,,35.934144,-79.020809,,,0,,America/New_York,,,0
+778848,3468,,Old Oxford Rd at Kirkwood Dr,,35.946666,-79.020994,,,0,,America/New_York,,,0
+778880,3503,,Weaver St at Lindsay St,,35.91127,-79.075532,,,0,,America/New_York,,,0
+778835,3454,,Elliott Rd at Whole Foods Market,,35.934343,-79.028432,,,0,,America/New_York,,,0
+778878,3501,,Davie Rd at W Poplar Ave,,35.91262,-79.084693,,,0,,America/New_York,,,0
+778594,3171,,Tar Hill Dr at BPW Club Rd (Northbound),,35.8948867901036,-79.0854220699406,,,0,,America/New_York,,,0
+778576,3153,,Tar Hill Dr at BPW Club Rd,,35.895,-79.0856,,,0,,America/New_York,,,0
+778546,3123,,Legion Rd at Scarlet Dr,,35.942678,-79.011674,,,0,,America/New_York,,,0
+778747,3356,,W Barbee Ch Rd at Meadowmont Village Cir,,35.906,-79.01021,,,0,,America/New_York,,,0
+778776,3388,,Hamilton Rd at Raleigh Rd,,35.908329,-79.023906,,,0,,America/New_York,,,0
+778567,3144,,S Greensboro St at Municipal Park,,35.90939,-79.07235,,,0,,America/New_York,,,0
+778582,3159,,Brookgreen Dr at Market St,,35.881832,-79.066712,,,0,,America/New_York,,,0
+778467,3038,,Village Dr at Winding Creek,,35.921691,-79.066091,,,0,,America/New_York,,,0
+778686,3274,,US 15-501 Service Rd at Rams Plaza,,35.938217,-79.022713,,,0,,America/New_York,,,0
+778863,3484,,W Franklin St at Ham's,,35.91137,-79.06059,,,0,,America/New_York,,,0
+778957,3592,,NC 54 at Harris Inc (Fenway Park),,35.909268,-79.090246,,,0,,America/New_York,,,0
+778780,3392,,Hamilton Rd at Berkley Rd,,35.91093,-79.02326,,,0,,America/New_York,,,0
+778840,3460,,Ephesus Church Rd at Landerwood Ln,,35.932683,-79.00812,,,0,,America/New_York,,,0
+778651,3237,,East Dr at Jackson Cir,,35.901874,-79.05073,,,0,,America/New_York,,,0
+778990,3644,,Legion Rd Ext at Cooper St,,35.942751,-79.008728,,,0,,America/New_York,,,0
+778675,3263,,E Franklin St at Vet Hospital,,35.926781,-79.03601,,,0,,America/New_York,,,0
+778798,3411,,Mitchell Ln at Lindsay St,,35.91332,-79.06263,,,0,,America/New_York,,,0
+778606,3186,,Brookgreen Dr at Southern Village Clubhouse,,35.885063,-79.07068,,,0,,America/New_York,,,0
+778512,3087,,Merritt Mill Rd at Manley Estates,,35.90188,-79.06789,,,0,,America/New_York,,,0
+778624,3208,,Cameron Ave at Wilson St,,35.90968,-79.05707,,,0,,America/New_York,,,0
+778623,3207,,Cameron Ave at Kenan St,,35.90867,-79.05981,,,0,,America/New_York,,,0
+778701,3292,,Old Sterling Rd at Eastowne Rd,,35.950441,-79.00823,,,0,,America/New_York,,,0
+778573,3150,,Westminster Dr at Traffic Circle,,35.960272,-79.053029,,,0,,America/New_York,,,0
+778869,3490,,Davie Rd at Jones Ferry Rd (BP Station),,35.90711,-79.08349,,,0,,America/New_York,,,0
+778448,3013,,Raleigh Rd at Finley Golf Course Rd,,35.90665,-79.01999,,,0,,America/New_York,,,0
+778971,3607,,Martin Luther King Jr Blvd at Stateside Dr (NB),,35.955601,-79.05774,,,0,,America/New_York,,,0
+778956,3591,,NC 54 Ramp at Jones Ferry Rd,,35.90659,-79.08633,,,0,,America/New_York,,,0
+778775,3387,,Raleigh Rd at Glen Lennox Shopping Center,,35.908364,-79.024732,,,0,,America/New_York,,,0
+778963,3598,,NC 54 at Oleander Rd,,35.91002,-79.09037,,,0,,America/New_York,,,0
+778463,3034,,Weaver Dairy Rd at Kingston,,35.963862,-79.05269,,,0,,America/New_York,,,0
+778903,3529,,N Greensboro St at Bolin Forest,,35.920905,-79.082314,,,0,,America/New_York,,,0
+778689,3277,,Standish Dr at Old Durham Rd,,35.943871,-79.00759,,,0,,America/New_York,,,0
+778627,3211,,Pittsboro St at Newman Center,,35.908869,-79.054844,,,0,,America/New_York,,,0
+778616,3196,,Culbreth Rd at Weyer,,35.892704,-79.070558,,,0,,America/New_York,,,0
+778787,3399,,Ridge Rd at Law School (NB),,35.90927,-79.041369,,,0,,America/New_York,,,0
+778996,3655,,Rock Haven Rd opposite Rock Creek West,,35.891801,-79.082983,,,0,,America/New_York,,,0
+778947,3582,,Mitchell Ln at #211,,35.9121,-79.0625,,,0,,America/New_York,,,0
+778548,3125,,Legion Rd at Cemetery,,35.941721,-79.01353,,,0,,America/New_York,,,0
+2382800,3102,,Banks Dr at Westminster Dr (Food Lion),,35.961969,-79.055191,,,0,,America/New_York,,,0
+779020,3699,,Dobbins Dr at Erwin Rd,,35.942887,-79.01912,,,0,,America/New_York,,,0
+778847,3467,,Carol Woods,,35.964962,-79.04027,,,0,,America/New_York,,,0
+778590,3167,,Parkside Cir at Edgewater Cir,,35.884644,-79.067747,,,0,,America/New_York,,,0
+778742,3337,,Martin Luther King Jr Blvd at Timber Hollow (NB),,35.941392225908,-79.0572112730978,,,0,,America/New_York,,,0
+778513,3088,,Bradley Rd at Williams Circle (NB),,35.925832,-79.058177,,,0,,America/New_York,,,0
+778828,3447,,E Franklin St at Henderson St,,35.914399,-79.052779,,,0,,America/New_York,,,0
+778710,3305,,Foxwood Dr at Sedgefield Dr,,35.952091,-79.02157,,,0,,America/New_York,,,0
+778800,3413,,Mitchell Ln at Caldwell St,,35.91585,-79.06405,,,0,,America/New_York,,,0
+778938,3572,,Old Fayetteville Rd at Poplar Place (SB),,35.902983,-79.091017,,,0,,America/New_York,,,0
+778796,3409,,W Rosemary St at Breadman's,,35.9125,-79.0604,,,0,,America/New_York,,,0
+778521,3096,,Weiner St at Severin St,,35.926771,-79.06341,,,0,,America/New_York,,,0
+778853,3474,,Landerwood Ln at Ephesus Church Rd,,35.933219,-79.00891,,,0,,America/New_York,,,0
+778727,3322,,Curtis Rd at Clayton Rd,,35.9353965971142,-79.0417292993594,,,0,,America/New_York,,,0
+778715,3310,,N Lakeshore Dr at #1822,,35.9426251711494,-79.0390060826809,,,0,,America/New_York,,,0
+778695,3283,,Sage Rd at Erwin Rd,,35.951141,-79.01625,,,0,,America/New_York,,,0
+778831,3450,,Martin Luther King Jr Blvd at Longview St,,35.92156,-79.05584,,,0,,America/New_York,,,0
+778872,3493,,Jones Ferry at Bim St (EB),,35.90909,-79.07781,,,0,,America/New_York,,,0
+778545,3122,,US 15-501 Service Rd at Hampton Inn,,35.93976,-79.02095,,,0,,America/New_York,,,0
+778756,3365,,E Franklin St at Elliott Rd,,35.934731,-79.02959,,,0,,America/New_York,,,0
+778929,3559,,Old Sterling Rd at Bible Church,,35.950822,-79.01383,,,0,,America/New_York,,,0
+778721,3316,,N Lakeshore Dr at #2121,,35.948829,-79.034692,,,0,,America/New_York,,,0
+778663,3250,,E Franklin St at Park Pl,,35.9168,-79.04375,,,0,,America/New_York,,,0
+778755,3364,,Brandon Rd at Hayes Rd,,35.91524,-79.02593,,,0,,America/New_York,,,0
+778684,3272,,Elliott Rd at First Citizens Bank,,35.934331,-79.02879,,,0,,America/New_York,,,0
+778972,3608,,Bradley Rd at Reade Rd (NB),,35.924786523349,-79.057650161002,,,0,,America/New_York,,,0
+778991,3645,,US 15-501 South at Bennett Rd,,35.88504,-79.06134,,,0,,America/New_York,,,0
+778477,3048,,Longview St at N Columbia St,,35.919609,-79.059814,,,0,,America/New_York,,,0
+778482,3053,,Martin Luther King Jr Blvd at Estes Dr (YMCA),,35.933601,-79.05572,,,0,,America/New_York,,,0
+778816,3430,,South Rd at Country Club Rd (EB),,35.910653,-79.04255,,,0,,America/New_York,,,0
+778681,3269,,E Franklin St at Glendale Dr,,35.9181,-79.04,,,0,,America/New_York,,,0
+778625,3209,,Cameron Ave at Granville Towers,,35.90981,-79.05681,,,0,,America/New_York,,,0
+778924,3551,,Hillsborough Rd at Fair Oaks,,35.926917,-79.092744,,,0,,America/New_York,,,0
+778534,3111,,Erwin Rd at Weaver Dairy Rd,,35.948821,-79.0198,,,0,,America/New_York,,,0
+778777,3389,,Hamilton Rd at Maxwell Rd 1,,35.909437,-79.02382,,,0,,America/New_York,,,0
+778978,3614,,Chapel Hill High School,,35.947211,-79.08102,,,0,,America/New_York,,,0
+778642,3227,,Bowles Dr at Hinton James Tennis Courts,,35.90168,-79.043937,,,0,,America/New_York,,,0
+778962,3597,,Willow Dr at Estes Dr,,35.927861,-79.0303,,,0,,America/New_York,,,0
+2329782,3998,,Jones Ferry Rd at Orange Water and Sewer Authority,,35.908268239145,-79.0798243454341,,,0,,America/New_York,,,0
+778804,3417,,Barclay Rd at Justice St (WB),,35.930161,-79.05624,,,0,,America/New_York,,,0
+778730,3325,,Estes Dr at Phillips Middle School & Park,,35.934981,-79.04743,,,0,,America/New_York,,,0
+778997,3656,,Airport Dr at Estes Dr Ext (Northbound),,35.933030297092,-79.0597546087996,,,0,,America/New_York,,,0
+778570,3147,,Smith Level Rd at BPW Club Rd (NB),,35.89576,-79.07612,,,0,,America/New_York,,,0
+778982,3622,,Finley Forest Dr at Finley Forest Condominiums,,35.89832,-79.00883,,,0,,America/New_York,,,0
+778501,3076,,Curtis Rd at S Lakeshore Dr,,35.939702958796,-79.0400162118473,,,0,,America/New_York,,,0
+778860,3481,,W Franklin St at S Granham St (Chapel Hill News),,35.90997,-79.063763,,,0,,America/New_York,,,0
+778760,3369,,E Franklin St at Etna Gas Station,,35.931461,-79.03304,,,0,,America/New_York,,,0
+779025,3704,,Old Mason Farm Rd at Highland Woods Rd,,35.901195,-79.03173,,,0,,America/New_York,,,0
+778635,3220,,Mason Farm Rd at Ambulatory Care Center (WB),,35.902288,-79.054764,,,0,,America/New_York,,,0
+779000,3658,,Ronald McDonald House (EB),,35.900894,-79.030835,,,0,,America/New_York,,,0
+778543,3120,,Dobbins Dr at Foxcroft Dr,Shelter stop located just south-southwest of entrance to Midtown 501 off Dobbins Drive.,35.940811,-79.02202,,,0,,America/New_York,,,0
+778732,3327,,Martin Luther King Jr Blvd at Shadowood Ct (SB),,35.937081,-79.05661,,,0,,America/New_York,,,0
+778769,3380,,Willow Dr at Willow Terrace Condos,,35.930226,-79.026064,,,0,,America/New_York,,,0
+778661,3248,,Hillsborough St at Bolinwood Dr (NB),,35.923566,-79.051793,,,0,,America/New_York,,,0
+2382799,4993,,St Thomas More School,,35.90472,-79.031454,,,0,,America/New_York,,,0
+778895,3519,,W Main St at James St,,35.91761,-79.09324,,,0,,America/New_York,,,0
+778849,3469,,Summerfield Crossing Rd at Mossbark Ln,Located just south of the junction of Berry Patch Lane with Summerfield Crossing Road.,35.9436350979841,-79.0219883314173,,,0,,America/New_York,,,0
+778610,3190,,NC 54 West at Laurel Ridge,,35.89879,-79.0666,,,0,,America/New_York,,,0
+778811,3425,,Cameron Ave at New East Hall,,35.91246,-79.04991,,,0,,America/New_York,,,0
+778628,3212,,McCauley St at Whitehead Dorm,,35.90866,-79.05368,,,0,,America/New_York,,,0
+778770,3381,,Raleigh St at Connor Hall,,35.91075,-79.04668,,,0,,America/New_York,,,0
+778522,3097,,Severin St at # 223,,35.927675,-79.060142,,,0,,America/New_York,,,0
+778505,3080,,Eubanks Rd at Northwood Dr,,35.969462,-79.06623,,,0,,America/New_York,,,0
+778474,3045,,W Franklin St at N Graham St (WB),,35.910027,-79.064113,,,0,,America/New_York,,,0
+778781,3393,,Hamilton Rd at Maxwell Rd 2,,35.91309,-79.02339,,,0,,America/New_York,,,0
+778818,3436,,Mason Farm Rd at Odum Village,,35.901597,-79.052186,,,0,,America/New_York,,,0
+778611,3191,,NC 54 East at Kingswood,,35.89892,-79.06732,,,0,,America/New_York,,,0
+778890,3514,,Hillsborough Rd at Pine St,,35.91613,-79.08161,,,0,,America/New_York,,,0
+778700,3288,,Sage Rd at Dobbins Dr (NB),,35.946581,-79.01359,,,0,,America/New_York,,,0
+778641,3226,,Pittsboro St at Credit Union,,35.90689,-79.05487,,,0,,America/New_York,,,0
+778966,3602,,W Poplar Ave at Raven Ln,,35.91272,-79.08636,,,0,,America/New_York,,,0
+778667,3254,,E Franklin St at Raleigh St,,35.91583,-79.04861,,,0,,America/New_York,,,0
+778850,3470,,W Franklin St at University Square,,35.912157,-79.05818,,,0,,America/New_York,,,0
+778604,3184,,S Columbia St at Westwood Dr,,35.90162,-79.05754,,,0,,America/New_York,,,0
+778668,3255,,E Franklin St at S Boundary St,,35.916772,-79.046111,,,0,,America/New_York,,,0
+778460,3031,,Hillsborough St at Townhouse Apts,,35.91973,-79.05161,,,0,,America/New_York,,,0
+778704,3298,,Honeysuckle Rd at Booker Creek Rd,,35.952305,-79.027103,,,0,,America/New_York,,,0
+2329780,3996,,Jones Ferry Rd at Chapel Hill Tire,,35.9098687051092,-79.0757384089108,,,0,,America/New_York,,,0
+778817,3431,,South Rd at Country Club Rd (WB),,35.910802,-79.042796,,,0,,America/New_York,,,0
+778578,3155,,BPW Club Rd at Sterling Bluff,,35.895585,-79.079993,,,0,,America/New_York,,,0
+778565,3142,,Jones Ferry Rd at Ashford Apts,,35.90531,-79.08752,,,0,,America/New_York,,,0
+778698,3286,,Coleridge Dr at Sage Rd (Sagebrook Apts),"Shelter stop located in Sagebrook Apartments, just West of junction of Coleridge Drive with Sage Road.",35.9471603397681,-79.0148511946809,,,0,,America/New_York,,,0
+778696,3284,,Sage Rd at Erwin Rd,,35.951131,-79.01601,,,0,,America/New_York,,,0
+778560,3137,,Old Fayetteville Rd at Autumn Woods (north),,35.90729,-79.09216,,,0,,America/New_York,,,0
+778989,3638,,Market St at Kildaire Rd,,35.880113,-79.065068,,,0,,America/New_York,,,0
+778496,3070,,Elliott Rd at Burger King,,35.9323411375786,-79.0253730613422,,,0,,America/New_York,,,0
+778939,3573,,Jones Ferry Rd at Willow Creek Professional Center,,35.90485,-79.089033,,,0,,America/New_York,,,0
+778838,3457,,NC 54 East at Canterbury Apts,,35.902362,-79.077028,,,0,,America/New_York,,,0
+778919,3545,,Old Fayetteville Rd at Pine Grove,,35.9242436183748,-79.1001982992775,,,0,,America/New_York,,,0
+778740,3335,,Martin Luther King Jr Blvd at Taylor St (Citgo),,35.945951,-79.05818,,,0,,America/New_York,,,0
+778495,3069,,Elliott Rd opposite Burger King,,35.932421,-79.02546,,,0,,America/New_York,,,0
+778557,3134,,Carrboro Plaza Park-and-Ride Lot,,35.91597,-79.09684,,,0,,America/New_York,,,0
+778857,3478,,Estes Dr at Methodist Church,,35.935151,-79.05524,,,0,,America/New_York,,,0
+778844,3464,,Bowles Dr at Smith Center,,35.90043,-79.04316,,,0,,America/New_York,,,0
+778520,3095,,Weiner St at Barclay Rd,,35.927261,-79.06311,,,0,,America/New_York,,,0
+778558,3135,,Old Fayetteville Rd at Berkshire Manor West,,35.91446,-79.09578,,,0,,America/New_York,,,0
+778647,3233,,Manning Dr at Craige Parking Deck,,35.90354,-79.04644,,,0,,America/New_York,,,0
+778476,3047,,Pritchard Ave at Longview St,,35.919471,-79.060869,,,0,,America/New_York,,,0
+778750,3359,,South Rd at Fetzer Gym,,35.909634,-79.04755,,,0,,America/New_York,,,0
+778797,3410,,Mitchell Ln at W Rosemary,,35.91203,-79.06239,,,0,,America/New_York,,,0
+778585,3162,,Ridge Rd at Stadium Dr,,35.90614,-79.04483,,,0,,America/New_York,,,0
+778984,3624,,Brookberry Cir at Finley Forest Dr,,35.8991397772613,-79.0097068220902,,,0,,America/New_York,,,0
+2382781,4992,,Mason Farm Rd at Baity Hill Dr,,35.89776687258,-79.042650654374,,,0,,America/New_York,,,0
+778983,3623,,309 Finley Forest Dr,,35.8994744005794,-79.0103364723873,,,0,,America/New_York,,,0
+778632,3216,,Stadium Dr at Stadium Gate #2,,35.908174,-79.046986,,,0,,America/New_York,,,0
+778814,3428,,E Franklin St at Varsity Theatre,,35.91358,-79.05486,,,0,,America/New_York,,,0
+778936,3570,,Merritt Mill Rd at Locust Ct,,35.90505,-79.064417,,,0,,America/New_York,,,0
+778922,3549,,Hillsborough Rd at Barington Hills,,35.93222,-79.099334,,,0,,America/New_York,,,0
+778887,3511,,W Poplar Ave at Lilac Dr,,35.912977,-79.088725,,,0,,America/New_York,,,0
+778954,3589,,W Poplar Ave at Dominon Ramsgate (The Crest Apts),,35.9123200813576,-79.0928180613423,,,0,,America/New_York,,,0
+778955,3590,,Manning Dr at Hinton James,,35.90302,-79.04291,,,0,,America/New_York,,,0
+778960,3595,,Old Fayetteville Rd at Ramsgate Apt,,35.91066,-79.09338,,,0,,America/New_York,,,0
+778884,3508,,Weaver St at Carrboro Century Center,,35.9109,-79.07179,,,0,,America/New_York,,,0
+778540,3117,,Summerfield Crossing Rd at Beaver Dam Ct,,35.9415239204397,-79.0211852922088,,,0,,America/New_York,,,0
+778897,3522,,Carol St at James St,,35.92241,-79.094019,,,0,,America/New_York,,,0
+778753,3362,,Brandon Rd at Hamilton Rd,,35.91515,-79.02339,,,0,,America/New_York,,,0
+778794,3407,,Martin Luther King Jr Blvd at Town Hall,,35.91672,-79.05682,,,0,,America/New_York,,,0
+778846,3466,,S Greensboro St at Mobile Home Park,,35.90298,-79.07262,,,0,,America/New_York,,,0
+778958,3593,,Legion Rd at #1718,,35.940491,-79.01542,,,0,,America/New_York,,,0
+778515,3090,,Bradley Rd at Reade Rd (SB),,35.924985528288,-79.057906952507,,,0,,America/New_York,,,0
+778494,3068,,Ephesus Church Rd at Holiday Inn,,35.935201,-79.02216,,,0,,America/New_York,,,0
+778464,3035,,Village Dr at Estes Dr,,35.922708,-79.070837,,,0,,America/New_York,,,0
+778449,3014,,Raleigh Rd at Burning Tree Dr,,35.90659,-79.0192,,,0,,America/New_York,,,0
+778808,3422,,W Franklin St at Caribou Coffee,,35.91297,-79.05646,,,0,,America/New_York,,,0
+778888,3512,,W Poplar Ave at Lilac Dr,,35.91287,-79.08876,,,0,,America/New_York,,,0
+779022,3701,,Finley Golf Course Rd at NC 54,,35.9057153868053,-79.01893,,,0,,America/New_York,,,0
+778654,3241,,Airport Dr at Martin Luther King Jr Blvd,,35.932157,-79.056069,,,0,,America/New_York,,,0
+778629,3213,,McCauley St at Pharmacy Ln,,35.90836,-79.053852,,,0,,America/New_York,,,0
+778766,3375,,Estes Dr at Camelot Apts,,35.927291,-79.02974,,,0,,America/New_York,,,0
+778778,3390,,Hamilton Rd at Maxwell Rd 1,,35.909368,-79.023493,,,0,,America/New_York,,,0
+778547,3124,,Standish Dr at Sir Richards Ln,,35.941876,-79.007466,,,0,,America/New_York,,,0
+778746,3355,,Meadowmont Ln at Village Crossing Dr,,35.90492,-79.00911,,,0,,America/New_York,,,0
+778572,3149,,Eubanks Rd Park-and-Ride Lot,,35.970052,-79.07113,,,0,,America/New_York,,,0
+778516,3091,,Martin Luther King Jr Blvd at Riggsbee Mobile Home Park (NB),,35.959718,-79.057167,,,0,,America/New_York,,,0
+778716,3311,,N Lakeshore Dr at Shady Lawn Rd,,35.944561,-79.037927,,,0,,America/New_York,,,0
+778821,3439,,Raleigh St at Alderman Hall,,35.91418,-79.04831,,,0,,America/New_York,,,0
+778676,3264,,E Franklin St at Plant Rd,,35.926821,-79.03578,,,0,,America/New_York,,,0
+778927,3557,,E Lakeview Dr at Old Durham Rd (NB),,35.945346,-79.001969,,,0,,America/New_York,,,0
+778904,3530,,N Greensboro St at Milton Dr,,35.92072,-79.081886,,,0,,America/New_York,,,0
+778574,3151,,BPW Club Rd at Orchard Ln,,35.89552,-79.07761,,,0,,America/New_York,,,0
+778580,3157,,Merritt Mill Rd at Lincoln Center,,35.90282,-79.06675,,,0,,America/New_York,,,0
+778535,3112,,Old Oxford Rd E at Kirkwood Dr,,35.946596,-79.020588,,,0,,America/New_York,,,0
+779024,3703,,Manning Dr at Gravely Dr,,35.903042,-79.05032,,,0,,America/New_York,,,0
+778709,3304,,Sedgefield Dr at Mayberry Ct,,35.953361,-79.02337,,,0,,America/New_York,,,0
+778931,3561,,W Rosemary St at N Roberson St (Mama Dip's),,35.911418,-79.063362,,,0,,America/New_York,,,0
+778566,3143,,NC 54 West at Carolina Apartments,,35.90352,-79.08201,,,0,,America/New_York,,,0
+779014,3693,,Rogers Rd at Rusch Rd,,35.957451,-79.08254,,,0,,America/New_York,,,0
+778503,3078,,Curtis Rd at Lyons Rd,,35.937981,-79.04136,,,0,,America/New_York,,,0
+779005,3684,,Homestead Rd at Camden Ln,,35.948025,-79.08279,,,0,,America/New_York,,,0
+778536,3113,,Dobbins Dr at Cosgrove Hills,,35.944331,-79.01412,,,0,,America/New_York,,,0
+778843,3463,,Old Oxford Rd E at Booker Creek Rd,,35.94565,-79.023585,,,0,,America/New_York,,,0
+778779,3391,,Hamilton Rd at Berkley Rd,,35.91092,-79.023443,,,0,,America/New_York,,,0
+778711,3306,,Foxwood Dr at Honeysuckle Rd,,35.949611,-79.023449,,,0,,America/New_York,,,0
+778768,3378,,Willow Dr at Connor Dr,,35.929241,-79.02891,,,0,,America/New_York,,,0
+778873,3494,,Davie Rd at Bert St,,35.909518,-79.083946,,,0,,America/New_York,,,0
+778834,3453,,E Franklin St at Eastgate Shopping Center,,35.936695,-79.026167,,,0,,America/New_York,,,0
+778719,3314,,N Lakeshore Dr at Kenmore Rd,,35.9462510097985,-79.0360588407853,,,0,,America/New_York,,,0
+778691,3279,,Standish Dr at Sir Richard Ln,,35.941811,-79.00758,,,0,,America/New_York,,,0
+779026,3705,,Old Mason Farm Rd at Botanical Gardens,,35.901234,-79.03225,,,0,,America/New_York,,,0
+778894,3518,,W Main St at Simpson St,,35.917241,-79.091354,,,0,,America/New_York,,,0
+778916,3542,,N Greensboro St at Fitch Lumber,,35.912,-79.07233,,,0,,America/New_York,,,0
+778832,3451,,Martin Luther King Jr Blvd at Mill Creek Apts,,35.9213904970033,-79.0556531196261,,,0,,America/New_York,,,0
+778660,3247,,Hillsborough St at Martin Luther King Jr Blvd,,35.924951,-79.05311,,,0,,America/New_York,,,0
+778833,3452,,Estes Dr at Phillips Middle School & Park,,35.935181,-79.04783,,,0,,America/New_York,,,0
+778726,3321,,Curtis Rd at Clayton Rd,,35.9354280168959,-79.0419346346453,,,0,,America/New_York,,,0
+778506,3081,,Martin Luther King Jr Blvd at Northampton Plaza,,35.91839,-79.0563,,,0,,America/New_York,,,0
+779019,3698,,Morris Grove Elementary,,35.966443,-79.10089,,,0,,America/New_York,,,0
+778707,3302,,Honeysuckle Rd at Honeysuckle Ct,,35.952581,-79.03111,,,0,,America/New_York,,,0
+778552,3129,,NC 54 West at Berkshire Manor,,35.91558,-79.09281,,,0,,America/New_York,,,0
+778951,3586,,Merritt Mill Rd at Manley Estates,,35.901983,-79.068317,,,0,,America/New_York,,,0
+801471,3661,,Smith Level Rd at BPW Club Rd (SB),,35.895269,-79.07649,,,0,,America/New_York,,,0
+778807,3421,,N Columbia St at W Franklin St,,35.913403,-79.05604,,,0,,America/New_York,,,0
+778855,3476,,Estes Dr at Somerset Dr,,35.935121,-79.05076,,,0,,America/New_York,,,0
+778690,3278,,Standish Dr at Old Durham Rd,,35.944017,-79.007436,,,0,,America/New_York,,,0
+778551,3128,,Europa Dr at Sheraton Hotel (SB),,35.940182,-79.018008,,,0,,America/New_York,,,0
+778597,3174,,Southern Village Park-and-Ride Lot,,35.878804,-79.066271,,,0,,America/New_York,,,0
+778792,3405,,Village Dr at Estes Dr,,35.922788,-79.071107,,,0,,America/New_York,,,0
+778899,3524,,Carol St at Lorraine St,,35.922341,-79.089117,,,0,,America/New_York,,,0
+778461,3032,,Hillsborough St at Bolinwood Dr (SB),,35.92338,-79.05177,,,0,,America/New_York,,,0
+778575,3152,,Tar Hill Dr at Turnaround Circle,,35.8938981303973,-79.0857580107913,,,0,,America/New_York,,,0
+778638,3223,,S Columbia St at Health Sciences Library,,35.9055493039481,-79.0533138015564,,,0,,America/New_York,,,0
+778964,3600,,Hillsborough Rd at Rainbow Dr,,35.924181,-79.09048,,,0,,America/New_York,,,0
+778486,3059,,Ephesus Church Rd at Tinkerbell Rd,,35.932706,-79.012285,,,0,,America/New_York,,,0
+778761,3370,,E Franklin St at #1512,,35.931171,-79.03304,,,0,,America/New_York,,,0
+779006,3685,,Homestead Rd at Camden Ln,,35.948135,-79.08285,,,0,,America/New_York,,,0
+778824,3443,,Weaver Dairy Rd at Essex Dr,,35.964093,-79.044018,,,0,,America/New_York,,,0
+778682,3270,,Estes Park Apartments,,35.92005,-79.07017,,,0,,America/New_York,,,0
+778493,3067,,Ephesus Church Rd at Legion Rd,,35.935014,-79.021662,,,0,,America/New_York,,,0
+778480,3051,,Caldwell St at N Columbia St,,35.91804,-79.059387,,,0,,America/New_York,,,0
+778542,3119,,Martin Luther King Jr Blvd at Riggsbee Mobile Home Park (SB),,35.958741,-79.05752,,,0,,America/New_York,,,0
+2329781,3997,,Jones Ferry Rd at Bim St (WB),,35.90914666371,-79.077977644527,,,0,,America/New_York,,,0
+778774,3386,,Raleigh Rd at UNC Administration (EB),,35.90932,-79.03024,,,0,,America/New_York,,,0
+778961,3596,,Hillsborough Rd at Dove St,,35.925051,-79.09126,,,0,,America/New_York,,,0
+778645,3231,,F Parking Lot at Middle of Lot,,35.90024,-79.03902,,,0,,America/New_York,,,0
+778705,3299,,Honeysuckle Rd at Sedgefield Dr,,35.952505,-79.026242,,,0,,America/New_York,,,0
+778563,3140,,Jones Ferry Rd at Willow Creek Professional Center,,35.90497,-79.08906,,,0,,America/New_York,,,0
+778728,3323,,Caswell Rd at Clayton Rd,,35.935281,-79.042395,,,0,,America/New_York,,,0
+778688,3276,,Old Durham Rd at Hardees,,35.944301,-79.01114,,,0,,America/New_York,,,0
+778502,3077,,Curtis Rd at S Lakeshore Dr,,35.939653,-79.040231,,,0,,America/New_York,,,0
+778825,3444,,Martin Luther King Jr Blvd at Airport Dr,,35.932541,-79.055696,,,0,,America/New_York,,,0
+810902,3229,,Bowles Dr at F Lot Driveway (Eastbound),"Located just West of the western-most entrance to the F Lot, heading toward Manning Drive.",35.9004042158361,-79.0406071945545,,,0,,America/New_York,,,0
+778671,3258,,E Franklin St at Planetarium (WB),,35.915151,-79.05082,,,0,,America/New_York,,,0
+778773,3385,,Raleigh Rd at St Thomas More (WB),,35.9112,-79.03804,,,0,,America/New_York,,,0
+778615,3195,,Culbreth Rd at Adams Way,,35.892241,-79.067846,,,0,,America/New_York,,,0
+778509,3084,,Village Dr at Oakland Dr,,35.921346,-79.069654,,,0,,America/New_York,,,0
+779011,3690,,Rogers Rd at Ezekiel Peppers,,35.955502,-79.08153,,,0,,America/New_York,,,0
+778620,3204,,Cameron Ave at Railroad Tracks,,35.9073,-79.06329,,,0,,America/New_York,,,0
+778765,3374,,Estes Dr at Fordham Blvd (Texaco),,35.925281,-79.02555,,,0,,America/New_York,,,0
+778618,3199,,Westgreen Dr at Parkside Cir,,35.884039,-79.0662,,,0,,America/New_York,,,0
+778538,3115,,Summerfield Crossing at Grist Mill,,35.943788,-79.025472,,,0,,America/New_York,,,0
+778530,3107,,Hillsborough St at North St,,35.917742,-79.050501,,,0,,America/New_York,,,0
+778581,3158,,BPW Club Rd at Tennis Courts,,35.8959139378321,-79.0823579705696,,,0,,America/New_York,,,0
+778478,3049,,N Columbia St at Isley St,,35.918813,-79.059302,,,0,,America/New_York,,,0
+778941,3576,,High St at Goldston Ave,,35.916167,-79.085967,,,0,,America/New_York,,,0
+778823,3441,,Martin Luther King Jr Blvd at Westminster Dr,,35.960651,-79.05754,,,0,,America/New_York,,,0
+778636,3221,,Mason Farm Rd at Ambulatory Care Center (EB),,35.90212,-79.054326,,,0,,America/New_York,,,0
+778915,3541,,N Greensboro St at Harris Teeter,,35.912124,-79.07217,,,0,,America/New_York,,,0
+778608,3188,,S Columbia St at Purefoy Rd,,35.89534,-79.05854,,,0,,America/New_York,,,0
+778554,3131,,NC 54 East at Carrboro Plaza (ABC Store),,35.916584,-79.093605,,,0,,America/New_York,,,0
+778737,3332,,Martin Luther King Jr Blvd at Homestead Rd (SB),,35.948531,-79.05869,,,0,,America/New_York,,,0
+778459,3030,,Hillsborough St at Delta Zeta,,35.91978,-79.05156,,,0,,America/New_York,,,0
+778959,3594,,Hillsborough Rd at #904,,35.92343,-79.08966,,,0,,America/New_York,,,0
+778741,3336,,Homestead at Martin Luther King Jr Blvd (EB),,35.949701,-79.05901,,,0,,America/New_York,,,0
+778648,3234,,Manning Dr at Public Safety,,35.90359,-79.0468,,,0,,America/New_York,,,0
+779004,3683,,High School Rd at Celtic Cir,Just East of the junction of Celtic Circle with High School Road; just East of zebra crossing.,35.9473235768728,-79.0811585356537,,,0,,America/New_York,,,0
+778528,3105,,Raleigh Rd at Greenwood Rd (EB),,35.909558,-79.031648,,,0,,America/New_York,,,0
+778944,3579,,Hillsborough Rd at W Main St,,35.91395,-79.079733,,,0,,America/New_York,,,0
+778985,3628,,Ridge Rd at Rams Head Center,,35.90538,-79.045473,,,0,,America/New_York,,,0
+778724,3319,,Honeysuckle Rd at Honeysuckle Ct,,35.9523958442035,-79.0308803032075,,,0,,America/New_York,,,0
+778731,3326,,Honeysuckle Rd at Red Bud Ln,,35.952663,-79.029105,,,0,,America/New_York,,,0
+778805,3418,,East Chapel Hill High School,,35.960661,-79.0308,,,0,,America/New_York,,,0
+778826,3445,,Martin Luther King Jr Blvd at Estes Dr (SB),,35.933591,-79.05593,,,0,,America/New_York,,,0
+778479,3050,,N Columbia St at Isley St,,35.918744,-79.059131,,,0,,America/New_York,,,0
+778602,3181,,Merritt Mill Rd at Locust Ct,,35.9055,-79.06402,,,0,,America/New_York,,,0
+778653,3239,,Manning Dr at UNC Hospitals,,35.90356,-79.05186,,,0,,America/New_York,,,0
+778793,3406,,Village Dr at Fernwood Ln,,35.920884,-79.06736,,,0,,America/New_York,,,0
+778481,3052,,N Columbia St at Town Hall,,35.91652,-79.05785,,,0,,America/New_York,,,0
+778813,3427,,E Franklin St at Coffee Shop,,35.9137,-79.05407,,,0,,America/New_York,,,0
+778788,3401,,Eubanks Rd at Northwood Dr,,35.969352,-79.06599,,,0,,America/New_York,,,0
+778514,3089,,Umstead Dr at Pritchard Ave Ext,,35.922615,-79.06042,,,0,,America/New_York,,,0
+778621,3205,,Cameron Ave at S Roberson St,,35.908,-79.06149,,,0,,America/New_York,,,0
+778771,3383,,N Columbia St at Rosemary St,,35.91375,-79.05604,,,0,,America/New_York,,,0
+778541,3118,,Dobbins Dr at Summerfield Crossing,,35.941531,-79.02083,,,0,,America/New_York,,,0
+778789,3402,,Martin Luther King Jr Blvd at Perkins Dr (Chapel Hill North),,35.966452,-79.05918,,,0,,America/New_York,,,0
+778457,3028,,Raleigh St at Lewis Hall,,35.91249,-79.04739,,,0,,America/New_York,,,0
+778680,3268,,E Franklin St at Howell Ln,,35.922285,-79.038669,,,0,,America/New_York,,,0
+778940,3575,,W Main St at Westview Dr,,35.916383,-79.088917,,,0,,America/New_York,,,0
+778473,3044,,Smith Level Rd at Willow Oak Ln,,35.89818,-79.07514,,,0,,America/New_York,,,0
+778820,3438,,Brookgreen Dr at Copperline Dr,,35.8825,-79.067766,,,0,,America/New_York,,,0
+778626,3210,,Cameron Ave at Pittsboro St,,35.91011,-79.05571,,,0,,America/New_York,,,0
+778969,3605,,Smith Level Rd at Willow Oak Ln,,35.89819,-79.07526,,,0,,America/New_York,,,0
+778822,3440,,Banks Dr at Weaver Dairy Rd (NB),,35.963548,-79.055544,,,0,,America/New_York,,,0
+778865,3486,,W Poplar Ave at NC 54,,35.9129,-79.09144,,,0,,America/New_York,,,0
+778735,3330,,Martin Luther King Jr Blvd at Timber Hollow (SB),,35.940211,-79.05724,,,0,,America/New_York,,,0
+778531,3108,,Hillsborough St at E Rosemary St,,35.916919,-79.049862,,,0,,America/New_York,,,0
+779012,3691,,Rogers Rd at Tallyho Tr,,35.955586,-79.0817,,,0,,America/New_York,,,0
+778993,3651,,W Poplar Ave at Carolina Springs,,35.912382,-79.093083,,,0,,America/New_York,,,0
+778490,3063,,Ephesus Church Rd at Kings Arms Apts,,35.933115,-79.01933,,,0,,America/New_York,,,0
+778837,3456,,W Main St at Club Nova Thrift,,35.910082,-79.07348,,,0,,America/New_York,,,0
+778517,3092,,Weaver Dairy Rd at Sunrise Ln,,35.961711,-79.03396,,,0,,America/New_York,,,0
+778937,3571,,W Rosemary St at N Roberson St (Mama Dip's across),,35.911372,-79.063147,,,0,,America/New_York,,,0
+778879,3502,,W Main St at Carrboro Town Hall,,35.91204,-79.07737,,,0,,America/New_York,,,0
+778446,3002,,Fountain Ridge Rd at Highview Dr,,35.936564,-79.00405,,,0,,America/New_York,,,0
+778856,3477,,Estes Dr at Somerset Dr,,35.935251,-79.05049,,,0,,America/New_York,,,0
+778998,3657,,Airport Dr at Estes Dr Ext (Southbound),"Located South of the intersection of Airport Drive with Estes Drive Extension, almost directly across the street from #3656.",35.9329515262807,-79.0598515824935,,,0,,America/New_York,,,0
+778790,3403,,Martin Luther King Jr Blvd at Weaver Dairy Rd,,35.9648229523331,-79.0585195863622,,,0,,America/New_York,,,0
+778999,3659,,Ronald McDonald House (WB),,35.900947,-79.030745,,,0,,America/New_York,,,0
+778806,3420,,Martin Luther King Jr Blvd at Northfield Dr,,35.946451,-79.058533,,,0,,America/New_York,,,0
+778450,3015,,Fountian Ridge Rd at Colony Woods Dr,,35.936497,-79.00223,,,0,,America/New_York,,,0
+778500,3075,,N Lakeshore Dr at Rock Creek Rd,,35.9407994374847,-79.039965703943,,,0,,America/New_York,,,0
+778529,3106,,Raleigh Rd at Greenwood Rd (WB),,35.90994,-79.03245,,,0,,America/New_York,,,0
+778803,3416,,N Columbia St at Town Hall,,35.91642,-79.05772,,,0,,America/New_York,,,0
+778609,3189,,US 15-501 South at Culbreth Rd,,35.891886,-79.058797,,,0,,America/New_York,,,0
+778809,3423,,W Franklin St at University Baptist,,35.9127,-79.05675,,,0,,America/New_York,,,0
+778952,3587,,Friday Center Dr at NC 54,,35.90134,-79.01125,,,0,,America/New_York,,,0
+778914,3540,,N Greensboro St at #503,,35.914322,-79.072291,,,0,,America/New_York,,,0
+778864,3485,,NC 54 West at W Poplar Ave,,35.91316,-79.09185,,,0,,America/New_York,,,0
+778987,3630,,Copperline Dr at Greenview Dr,,35.882986,-79.065658,,,0,,America/New_York,,,0
+778598,3175,,Kildaire Rd at Market St,,35.880121,-79.065657,,,0,,America/New_York,,,0
+778876,3497,,Davie Rd at Fidelity Ct,,35.911414,-79.084487,,,0,,America/New_York,,,0
+778970,3606,,Martin Luther King Jr Blvd at Chapel Hill North (SB),,35.966472,-79.05958,,,0,,America/New_York,,,0
+778452,3017,,Colony Woods Dr at Overland Dr,,35.934057,-79.00187,,,0,,America/New_York,,,0
+778703,3297,,Barclay Rd at Hartig St,,35.928061,-79.06275,,,0,,America/New_York,,,0
+778649,3235,,Manning Dr at Hibbard Dr (WB),,35.90301,-79.049,,,0,,America/New_York,,,0
+801352,3098,,Severin St at Bradley Rd (SB),"Located at the intersection of Severin St and Bradley Rd, right at the stop sign.",35.928037045425,-79.058207720464,,,0,,America/New_York,,,0
+778896,3520,,W Main St at Carrboro Post Office,,35.9178,-79.09338,,,0,,America/New_York,,,0
+778471,3042,,BPW Club Rd at Smith Level Rd,,35.89544,-79.077,,,0,,America/New_York,,,0
+778791,3404,,Old Fayetteville Rd at Autumn Woods (south),,35.9056,-79.09165,,,0,,America/New_York,,,0
+778706,3301,,Honeysuckle Rd at Red Bud Ln,,35.9524161669857,-79.0290937345576,,,0,,America/New_York,,,0
+778973,3609,,Friday Center Dr at NC 54,,35.90208,-79.0108,,,0,,America/New_York,,,0
+778694,3282,,Erwin Rd at Weaver Dairy Rd,,35.948863,-79.019542,,,0,,America/New_York,,,0
+778851,3471,,W Franklin St at Kenan St,,35.91138,-79.06014,,,0,,America/New_York,,,0
+778751,3360,,South Rd at Student Stores,,35.909725,-79.047853,,,0,,America/New_York,,,0
+778497,3071,,Martin Luther King Jr Blvd at Stateside Dr (SB),,35.954741,-79.05809,,,0,,America/New_York,,,0
+778812,3426,,Cameron Ave at Swain Hall,,35.91108,-79.05354,,,0,,America/New_York,,,0
+778498,3073,,Westminster Dr at Timberlyne Theatre,,35.961493656266,-79.055564005707,,,0,,America/New_York,,,0
+778579,3156,,Weaver Dairy Rd at Kensington Trace,,35.963972,-79.04788,,,0,,America/New_York,,,0
+778559,3136,,Old Fayetteville Rd at W Poplar Ave,,35.9124,-79.09414,,,0,,America/New_York,,,0
+778877,3500,,Davie Rd at W Poplar Ave,,35.91269,-79.08457,,,0,,America/New_York,,,0
+779016,3695,,Rogers Rd at Purefoy Dr,,35.959121,-79.08431,,,0,,America/New_York,,,0
+778893,3517,,W Main St at Westview Dr,,35.916526,-79.088818,,,0,,America/New_York,,,0
+778644,3230,,Bowles Dr at F Lot Driveway,,35.90051,-79.04084,,,0,,America/New_York,,,0
+778526,3103,,Legion Rd at Wooded Area (#1719),,35.940401,-79.01572,,,0,,America/New_York,,,0
+778454,3025,,Friday Center Dr at Hedrick Shelter,,35.89518,-79.01341,,,0,,America/New_York,,,0
+778717,3312,,N Lakeshore Dr at Arlington St,,35.9442170842582,-79.0379965016512,,,0,,America/New_York,,,0
+778662,3249,,Westminster Dr at Martin Luther King Jr Blvd (EB),,35.961241,-79.05655,,,0,,America/New_York,,,0
+778852,3473,,Hillsborough St at E Rosemary St,,35.91622,-79.049652,,,0,,America/New_York,,,0
+778920,3547,,McDougle Middle School Track,,35.927111,-79.09843,,,0,,America/New_York,,,0
+778974,3610,,Homestead Rd at Southern Human Services,,35.951301,-79.06411,,,0,,America/New_York,,,0
+778583,3160,,Bowles Dr at Craige Dorm,,35.90301,-79.04433,,,0,,America/New_York,,,0
+778729,3324,,Caswell Rd at Estes Dr,,35.934831,-79.04304,,,0,,America/New_York,,,0
+778883,3507,,Weaver St at Weaver St Market,,35.910982,-79.071642,,,0,,America/New_York,,,0
+778722,3317,,N Lakeshore Dr at Brookview Rd,,35.951098,-79.033433,,,0,,America/New_York,,,0
+778674,3261,,Weaver Dairy Rd at Essex Dr,,35.963949,-79.043361,,,0,,America/New_York,,,0
+778470,3041,,Umstead Dr at Umstead Park,,35.921657,-79.06223,,,0,,America/New_York,,,0
+778889,3513,,Hillsborough Rd at W Main St,,35.91422,-79.07983,,,0,,America/New_York,,,0
+778549,3126,,Sage Rd at Dobbins Dr (SB),,35.945711,-79.01328,,,0,,America/New_York,,,0
+778926,3556,,Old Durham Rd at Bluefield St,,35.944351,-79.00345,,,0,,America/New_York,,,0
+778918,3544,,Carol St at Old Fayetteville Rd,,35.922237,-79.099747,,,0,,America/New_York,,,0
+778614,3194,,Culbreth Rd at Southbridge Dr,,35.891917,-79.06599,,,0,,America/New_York,,,0
+778743,3352,,Franklin Street Trust Building,,35.90242,-79.01383,,,0,,America/New_York,,,0
+778447,3012,,Ephesus Church Rd at Sharon Rd,,35.931931,-79.00535,,,0,,America/New_York,,,0
+778622,3206,,Cameron Ave at Cameron Glen,,35.90835,-79.06037,,,0,,America/New_York,,,0
+778967,3603,,Hillsborough Rd at Simpson St,,35.92204,-79.08746,,,0,,America/New_York,,,0
+779017,3696,,Rogers Rd at Meadow Run Ct,,35.964101,-79.0884,,,0,,America/New_York,,,0
+778867,3488,,NC 54 at Poplar Ave (The Crest Apts),Shelter stop just south of the intersection of Poplar Avenue with NC-54.,35.91221,-79.09177,,,0,,America/New_York,,,0
+778712,3307,,Booker Creek Rd at Apartments,,35.9477253714967,-79.0264426853129,,,0,,America/New_York,,,0
+778901,3527,,N Greensboro St at Morningside Dr,,35.921407,-79.085583,,,0,,America/New_York,,,0
+778475,3046,,Longview St at N Columbia St,,35.919634,-79.06013,,,0,,America/New_York,,,0
+778702,3296,,Eastowne Rd at Pinegate Cir,,35.948551,-79.00787,,,0,,America/New_York,,,0
+778745,3354,,W Barbee Ch Rd at Old Barn Ln,,35.90707,-79.01495,,,0,,America/New_York,,,0
+778685,3273,,E Franklin St at Booker Creek Greenway,,35.936831,-79.02635,,,0,,America/New_York,,,0
+778714,3309,,N Lakeshore Dr at #1821,,35.942724,-79.039207,,,0,,America/New_York,,,0
+778736,3331,,Homestead Rd at Martin Luther King Jr Blvd (WB),,35.950381,-79.06025,,,0,,America/New_York,,,0
+778923,3550,,Hillsborough Rd at #1218,,35.929035,-79.095315,,,0,,America/New_York,,,0
+778795,3408,,Martin Luther King Jr Blvd at North St,,35.91582,-79.05676,,,0,,America/New_York,,,0
+778945,3580,,W Main St at Carrboro Town Hall,,35.91205,-79.07755,,,0,,America/New_York,,,0
+778836,3455,,Severin St at #224,,35.927531,-79.05993,,,0,,America/New_York,,,0
+778687,3275,,Old Durham Rd at Heard Family Market,,35.944211,-79.01159,,,0,,America/New_York,,,0
+778592,3169,,Highland Hills at Welcome Center,,35.895851,-79.083013,,,0,,America/New_York,,,0
+778934,3567,,W Rosemary St at Mini-Mart,,35.912367,-79.060633,,,0,,America/New_York,,,0
+778902,3528,,N Greensboro St at Morningside Dr,,35.921089,-79.085007,,,0,,America/New_York,,,0
+778891,3515,,High St at Hillsborough Rd (Westbound),,35.9174933437843,-79.0839461365342,,,0,,America/New_York,,,0
+778905,3531,,N Greensboro St at Weathervane Dr,,35.920893,-79.080305,,,0,,America/New_York,,,0
+778942,3577,,High St at Hillsborough Rd (Eastbound),,35.9175554305477,-79.0836782070518,,,0,,America/New_York,,,0
+778943,3578,,Hillsborough Rd at Pine St,,35.916067,-79.081667,,,0,,America/New_York,,,0
+778759,3368,,E Franklin St at Franklin Woods,,35.932351,-79.03219,,,0,,America/New_York,,,0
+778762,3371,,Estes Dr at Post Office,,35.928081,-79.03239,,,0,,America/New_York,,,0
+778664,3251,,E Franklin St at Carolina Ave,,35.918211,-79.040221,,,0,,America/New_York,,,0
+778484,3056,,Barclay Rd at Justice St (EB),,35.930059,-79.056031,,,0,,America/New_York,,,0
+778453,3024,,NC 54 Park-and-Ride Lot,,35.89639,-79.01235,,,0,,America/New_York,,,0
+778802,3415,,Caldwell St at Church St,,35.917394,-79.060954,,,0,,America/New_York,,,0
+778785,3397,,South Rd at Woollen Gym,,35.910182,-79.045154,,,0,,America/New_York,,,0
+778784,3396,,Raleigh Rd at Hamilton Rd,,35.90779,-79.02331,,,0,,America/New_York,,,0
+778810,3424,,W Franklin St at Church St,,35.9122,-79.05845,,,0,,America/New_York,,,0
+778886,3510,,E Main St at Arts Center Plaza,,35.91074,-79.06813,,,0,,America/New_York,,,0
+779027,3707,,Fordham Blvd at Mason Farm Rd,,35.901399,-79.03297,,,0,,America/New_York,,,0
+778683,3271,,Elliott Rd at Plaza Theatres,,35.933089,-79.028161,,,0,,America/New_York,,,0
+778588,3165,,Weaver Dairy Rd at Timberlyne Rd,,35.963842,-79.04787,,,0,,America/New_York,,,0
+778757,3366,,E Franklin St at Elliott Rd,,35.934751,-79.02984,,,0,,America/New_York,,,0
+778830,3449,,Martin Luther King Jr Blvd at Hillsborough St (Midtown Market),,35.924481,-79.05424,,,0,,America/New_York,,,0
+778932,3564,,Mitchell Lane at Caldwell St,,35.915117,-79.063633,,,0,,America/New_York,,,0
+778708,3303,,Sedgefield Dr at Rosewood Ct,,35.953711,-79.02499,,,0,,America/New_York,,,0
+778507,3082,,Martin Luther King Jr Blvd at Adelaide Walters Apts,,35.91825,-79.05655,,,0,,America/New_York,,,0
+778829,3448,,Martin Luther King Jr Blvd at Umstead Dr,,35.923781,-79.05481,,,0,,America/New_York,,,0
+778527,3104,,Legion Rd at Forsyth Dr,,35.941527,-79.013592,,,0,,America/New_York,,,0
+778666,3253,,E Franklin St at Hillsborough St,,35.915826,-79.049036,,,0,,America/New_York,,,0
+778600,3178,,S Columbia St at Abernethy Hall,,35.91138,-79.05469,,,0,,America/New_York,,,0
+778907,3533,,N Greensboro St at Pine St,,35.919099,-79.077277,,,0,,America/New_York,,,0
+778909,3535,,N Greensboro St at Williams St,,35.918037,-79.075867,,,0,,America/New_York,,,0
+778783,3395,,Raleigh Rd at Oakwood Dr,,35.90783,-79.02238,,,0,,America/New_York,,,0
+779015,3694,,Rogers Rd at Purefoy Dr,,35.959096,-79.08396,,,0,,America/New_York,,,0
+2329779,3995,,W Main St at Inter-Faith Council,,35.9102,-79.073712,,,0,,America/New_York,,,0
+778658,3245,,Martin Luther King Jr Blvd at Bolinwood Dr,,35.928021,-79.05405,,,0,,America/New_York,,,0
+778677,3265,,E Franklin St at Elizabeth St,,35.924221,-79.03836,,,0,,America/New_York,,,0
+778988,3631,,Jones Ferry Rd at Alabama Ave,,35.9065199009279,-79.0844593032076,,,0,,America/New_York,,,0
+778930,3560,,W Rosemary St at Pritchard Ave,,35.913514,-79.057838,,,0,,America/New_York,,,0
+778925,3555,,Old Durham Rd at Cooper St,,35.944179,-79.008228,,,0,,America/New_York,,,0
+778504,3079,,Weaver Dairy Rd at Timberlyne Shopping Center,,35.963992,-79.05411,,,0,,America/New_York,,,0
+778646,3232,,F Parking Lot at Family Practice Building,,35.89937,-79.03824,,,0,,America/New_York,,,0
+778643,3228,,Bowles Dr at Smith Center,"Located west-northwest of the zebra crossing (in direction of Kenan Drive), on a lamp post at bi-level steps that lead to the Smith Center.",35.9003342429252,-79.0434606254851,,,0,,America/New_York,,,0
+778678,3266,,E Franklin St at Elizabeth St,,35.924011,-79.03831,,,0,,America/New_York,,,0
+778986,3629,,Chatham County Park-and-Ride,,35.853494,-79.084876,,,0,,America/New_York,,,0
+778949,3584,,W Rosemary St at Sunset Dr,,35.911062,-79.065901,,,0,,America/New_York,,,0
+778738,3333,,Martin Luther King Jr Blvd at Homestead Rd (NB),,35.950021,-79.05813,,,0,,America/New_York,,,0
+778483,3054,,Airport Dr at Martin Luther King Jr Blvd,,35.932322,-79.056307,,,0,,America/New_York,,,0
+778875,3496,,Davie Rd at Fidelity Ct,,35.91125,-79.08429,,,0,,America/New_York,,,0
+778564,3141,,Jones Ferry Rd at Willow Creek Shopping Center,,35.90532,-79.08789,,,0,,America/New_York,,,0
+778665,3252,,Raleigh St at Spencer Hall,,35.91469,-79.04876,,,0,,America/New_York,,,0
+778758,3367,,E Franklin St at Couch Rd,,35.932411,-79.03186,,,0,,America/New_York,,,0
+778532,3109,,US 15-501 Service Rd at Europa Dr,,35.941251,-79.018577,,,0,,America/New_York,,,0
+778569,3146,,Merritt Mill Rd at Roberts St,,35.90136,-79.07232,,,0,,America/New_York,,,0
+778656,3243,,Martin Luther King Jr Blvd at Barclay Rd (NB),,35.930301,-79.05483,,,0,,America/New_York,,,0
+778511,3086,,Martin Luther King Jr Blvd at Northwood Dr,,35.964782,-79.05888,,,0,,America/New_York,,,0
+778723,3318,,Honeysuckle at Brookview Rd,,35.951476,-79.033621,,,0,,America/New_York,,,0
+778586,3163,,Stadium Dr at Ridge Rd,,35.90678,-79.0447,,,0,,America/New_York,,,0
+779023,3702,,Rosemary St at Greenbridge,,35.9109928337349,-79.0652042285979,,,0,,America/New_York,,,0
+778523,3100,,Weaver Dairy Rd at Vilcom Campus,,35.964032,-79.05224,,,0,,America/New_York,,,0
+779002,3681,,Smith Middle School,,35.940692,-79.07647,,,0,,America/New_York,,,0
+778841,3461,,Landerwood Ln at Fountain Ridge Rd,,35.936391,-79.00932,,,0,,America/New_York,,,0
+778492,3066,,Ephesus Church Rd at Colony Apts 1,,35.934131,-79.02088,,,0,,America/New_York,,,0
+779018,3697,,Rogers Rd at Meadow Run Ct,,35.963971,-79.08904,,,0,,America/New_York,,,0
+778948,3583,,W Rosemary St at Graham St,,35.9111113376246,-79.064070964715,,,0,,America/New_York,,,0
+778670,3257,,E Franklin St at Planetarium (EB),,35.91493,-79.05093,,,0,,America/New_York,,,0
+778801,3414,,Caldwell St at Housing Authority,,35.9168,-79.06295,,,0,,America/New_York,,,0
+778839,3458,,NC 54 East at Westbrook Dr,,35.903071,-79.081238,,,0,,America/New_York,,,0
+778933,3566,,Mitchell Lane at Robertson St,,35.913567,-79.062783,,,0,,America/New_York,,,0
+778605,3185,,Brookgreen Dr at Edgewater Cir,,35.883572,-79.06951,,,0,,America/New_York,,,0
+778537,3114,,Raleigh Rd at UNC Administration (WB),,35.90929,-79.02911,,,0,,America/New_York,,,0
+778693,3281,,Standish Dr at St Andrews Ln,,35.939491,-79.00991,,,0,,America/New_York,,,0
+778469,3040,,Umstead Dr at Umstead Park,,35.921795,-79.062344,,,0,,America/New_York,,,0
+778612,3192,,Culbreth Rd at Channing Ln,,35.892496,-79.06245,,,0,,America/New_York,,,0
+778519,3094,,Barclay Rd at Williams Circle (EB),,35.929361,-79.05827,,,0,,America/New_York,,,0
+778589,3166,,Parkview Crescent at Stone Bridge,,35.885421,-79.067651,,,0,,America/New_York,,,0
+778657,3244,,Martin Luther King Jr Blvd at Airport Gardens Apts,,35.927951,-79.05422,,,0,,America/New_York,,,0
+778599,3176,,Copperline Dr at Aberdeen St,,35.881417,-79.064248,,,0,,America/New_York,,,0
+778510,3085,,Village Dr at Oakland Dr,,35.92122,-79.06938,,,0,,America/New_York,,,0
+778556,3133,,Smith Level Rd at FPG School,,35.90041,-79.07365,,,0,,America/New_York,,,0
+778911,3537,,N Greensboro St at Oak Ave,,35.916733,-79.073701,,,0,,America/New_York,,,0
+778458,3029,,Raleigh St at Mangum Hall,,35.91238,-79.04745,,,0,,America/New_York,,,0
+778772,3384,,Raleigh Rd at St Thomas More (EB),,35.911007,-79.038764,,,0,,America/New_York,,,0
+778718,3313,,N Lakeshore Dr at Kenmore Rd,,35.946672,-79.035902,,,0,,America/New_York,,,0
+778650,3236,,Manning Dr at Hibbard Dr (EB),,35.90288,-79.04905,,,0,,America/New_York,,,0
+778799,3412,,Mitchell Ln at McDade St,,35.9145,-79.06315,,,0,,America/New_York,,,0
+778994,3652,,Carrboro High School,,35.89254,-79.084013,,,0,,America/New_York,,,0
+778980,3619,,Caldwell St at Housing Authority,,35.916983,-79.062533,,,0,,America/New_York,,,0
+778928,3558,,E Lakeview Dr at W Lakeview (Red Roof Inn),,35.948484,-79.002117,,,0,,America/New_York,,,0

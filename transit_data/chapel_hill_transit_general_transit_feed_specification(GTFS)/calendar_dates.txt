@@ -1,0 +1,54 @@
+service_id,date,holiday_name,exception_type
+c_930_b_6572_d_96,20180331,Safe Rides Easter,2
+c_930_b_6339_d_96,20180331,Safe Rides Easter,2
+c_929_b_6328_d_56,20181123,Day-after Thanksgiving,2
+c_929_b_6328_d_56,20181122,Thanksgiving Day,2
+c_929_b_6328_d_56,20180331,Safe Rides Easter,2
+c_929_b_6328_d_56,20180330,Good Friday,2
+c_927_b_6338_d_31,20181123,Day-after Thanksgiving,2
+c_927_b_6338_d_31,20181122,Thanksgiving Day,2
+c_927_b_6338_d_31,20181031,Halloween,2
+c_927_b_6338_d_31,20180903,Labor Day,2
+c_927_b_6338_d_31,20180704,Independence Day,2
+c_927_b_6338_d_31,20180528,Memorial Day,2
+c_927_b_6338_d_31,20180330,Good Friday,2
+c_927_b_6338_d_31,20180115,Martin Luther King Jr Day,2
+c_782_b_none_d_32,20181226,Boxing Day,1
+c_782_b_none_d_32,20181123,Day-after Thanksgiving,1
+c_782_b_none_d_32,20180331,Safe Rides Easter,1
+c_782_b_none_d_32,20180330,Good Friday,1
+c_782_b_none_d_32,20180115,Martin Luther King Jr Day,1
+c_782_b_none_d_31,20181228,Fourth Day of Christmas,1
+c_782_b_none_d_31,20181227,Third Day of Christmas,1
+c_782_b_18_d_31,20190101,New Year's,2
+c_782_b_18_d_31,20181226,Boxing Day,2
+c_782_b_18_d_31,20181225,Christmas Day,2
+c_782_b_18_d_31,20181123,Day-after Thanksgiving,2
+c_782_b_18_d_31,20181122,Thanksgiving Day,2
+c_782_b_18_d_31,20181031,Halloween,2
+c_782_b_18_d_31,20180903,Labor Day,2
+c_782_b_18_d_31,20180704,Independence Day,2
+c_782_b_18_d_31,20180528,Memorial Day,2
+c_782_b_18_d_31,20180330,Good Friday,2
+c_782_b_18_d_31,20180115,Martin Luther King Jr Day,2
+c_6100_b_6467_d_31,20190101,New Year's,2
+c_6100_b_6467_d_31,20181228,Fourth Day of Christmas,2
+c_6100_b_6467_d_31,20181227,Third Day of Christmas,2
+c_6100_b_6467_d_31,20181226,Boxing Day,2
+c_6100_b_6467_d_31,20181225,Christmas Day,2
+c_6100_b_6467_d_31,20180115,Martin Luther King Jr Day,2
+c_2710_b_6329_d_56,20181123,Day-after Thanksgiving,2
+c_2710_b_6329_d_56,20181122,Thanksgiving Day,2
+c_2625_b_1144_d_31,20180704,Independence Day,2
+c_2624_b_none_d_31,20181228,Fourth Day of Christmas,1
+c_2624_b_none_d_31,20181227,Third Day of Christmas,1
+c_2624_b_2728_d_31,20190101,New Year's,2
+c_2624_b_2728_d_31,20181226,Boxing Day,2
+c_2624_b_2728_d_31,20181225,Christmas Day,2
+c_2624_b_2728_d_31,20181123,Day-after Thanksgiving,2
+c_2624_b_2728_d_31,20181122,Thanksgiving Day,2
+c_2624_b_2728_d_31,20181031,Halloween,2
+c_2624_b_2728_d_31,20180903,Labor Day,2
+c_2624_b_2728_d_31,20180704,Independence Day,2
+c_2624_b_2728_d_31,20180330,Good Friday,2
+c_2624_b_2728_d_31,20180115,Martin Luther King Jr Day,2

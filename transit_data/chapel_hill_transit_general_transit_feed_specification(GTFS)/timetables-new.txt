@@ -1,0 +1,73 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,6821,0,20140101,20221231,1,1,1,1,1,0,0,Baity Hill - UNC Hospitals - Fetzer Gym,Year-round calendar (Monday-Friday),Loop,horizontal
+2,1735,0,20140101,20221231,1,1,1,1,1,0,0,Booker Creek-University Place-UNC Hospitals ,Year-round calendar (Monday-Friday),Northbound,horizontal
+3,1735,1,20140101,20221231,1,1,1,1,1,0,0,Booker Creek-University Place-UNC Hospitals ,Year-round calendar (Monday-Friday),Southbound,horizontal
+4,1745,0,20140101,20221231,1,1,1,1,1,0,0,Campus Reverse Shuttle-Law School,Year-round calendar (Monday-Friday),Loop,horizontal
+5,1738,0,20170720,20180331,1,1,1,1,1,0,0,Carrboro-Downtown Chapel Hill-Jones Ferry Road,J Detour - 6/3/17 (Monday-Friday),Loop,horizontal
+6,1738,0,20180401,20181201,1,1,1,1,1,0,0,Carrboro-Downtown Chapel Hill-Jones Ferry Road,J Resume - 8/5/17 (Monday-Friday),Loop,horizontal
+7,1726,0,20140101,20221231,0,0,0,0,0,1,0,Carrboro-Merritt Mill Road-Family Medicine,Year-round calendar (Saturday only),Eastbound,horizontal
+8,1726,0,20140101,20221231,1,1,1,1,1,0,0,Carrboro-Merritt Mill Road-Family Medicine,Year-round calendar (Monday-Friday),Eastbound,horizontal
+9,1726,1,20140101,20221231,0,0,0,0,0,1,0,Carrboro-Merritt Mill Road-Family Medicine,Year-round calendar (Saturday only),Westbound,horizontal
+10,1726,1,20140101,20221231,1,1,1,1,1,0,0,Carrboro-Merritt Mill Road-Family Medicine,Year-round calendar (Monday-Friday),Westbound,horizontal
+11,1727,0,20171128,20211231,1,1,1,1,1,0,0,Carrboro Plaza Express,CHT EXPRESS (Monday-Friday),Eastbound,horizontal
+12,1727,1,20171128,20211231,1,1,1,1,1,0,0,Carrboro Plaza Express,CHT EXPRESS (Monday-Friday),Westbound,horizontal
+13,1728,0,20140101,20221231,0,0,0,0,0,1,0,Carrboro - Weaver Street,Year-round calendar (Saturday only),Eastbound,horizontal
+14,1728,0,20140101,20221231,1,1,1,1,1,0,0,Carrboro - Weaver Street,Year-round calendar (Monday-Friday),Eastbound,horizontal
+15,1728,1,20140101,20221231,0,0,0,0,0,1,0,Carrboro - Weaver Street,Year-round calendar (Saturday only),Westbound,horizontal
+16,1728,1,20140101,20221231,1,1,1,1,1,0,0,Carrboro - Weaver Street,Year-round calendar (Monday-Friday),Westbound,horizontal
+17,1724,0,20171128,20211231,1,1,1,1,1,0,0,Chatham County Express,CHT EXPRESS (Monday-Friday),Loop,horizontal
+18,1724,0,20171128,20211231,1,1,1,1,1,0,0,Chatham County Express,CHT EXPRESS (Monday-Friday),Northbound,horizontal
+19,1725,0,20140101,20221231,1,1,1,1,1,0,0,Colony Lake - Sage Rd - UNC Hospitals,Year-round calendar (Monday-Friday),Northbound,horizontal
+20,1725,1,20140101,20221231,1,1,1,1,1,0,0,Colony Lake - Sage Rd - UNC Hospitals,Year-round calendar (Monday-Friday),Southbound,horizontal
+21,1732,0,20140101,20221231,1,1,1,1,1,0,0,Colony Woods - Franklin Street - McDougle School,Year-round calendar (Monday-Friday),Eastbound,horizontal
+22,1732,1,20140101,20221231,1,1,1,1,1,0,0,Colony Woods - Franklin Street - McDougle School,Year-round calendar (Monday-Friday),Westbound,horizontal
+23,1729,0,20140101,20221231,1,1,1,1,1,0,0,Culbreth Road - Franklin Street - Eastowne,Year-round calendar (Monday-Friday),Eastbound,horizontal
+24,1729,1,20140101,20221231,1,1,1,1,1,0,0,Culbreth Road - Franklin Street - Eastowne,Year-round calendar (Monday-Friday),Westbound,horizontal
+25,1741,0,20140101,20221231,1,1,1,1,1,0,0,Estes Park-UNC Hospitals-Family Medicine,Year-round calendar (Monday-Friday),Northbound,horizontal
+26,1741,1,20140101,20221231,1,1,1,1,1,0,0,Estes Park-UNC Hospitals-Family Medicine,Year-round calendar (Monday-Friday),Southbound,horizontal
+27,1740,0,20140101,20221231,0,0,0,0,0,1,0,Estes Park-UNC Hospitals-Jones Ferry Road,Year-round calendar (Saturday only),Northbound,horizontal
+28,1740,1,20140101,20221231,0,0,0,0,0,1,0,Estes Park-UNC Hospitals-Jones Ferry Road,Year-round calendar (Saturday only),Southbound,horizontal
+29,1742,0,20140101,20221231,1,1,1,1,1,0,0,Eubanks Road-Southern Village,Year-round calendar (Monday-Friday),Northbound,horizontal
+30,1742,1,20140101,20221231,1,1,1,1,1,0,0,Eubanks Road-Southern Village,Year-round calendar (Monday-Friday),Southbound,horizontal
+31,1748,0,20180111,20180307,0,0,0,1,1,1,0,Franklin Street-Carrboro-Rock Haven Road,SAFE J DETOUR,Eastbound,horizontal
+32,1748,1,20180111,20180307,0,0,0,1,1,1,0,Franklin Street-Carrboro-Rock Haven Road,SAFE J DETOUR,Westbound,horizontal
+33,1747,0,20180111,20180307,0,0,0,1,1,1,0,Franklin Street-Finley Forest-Meadowmont,Safe Rides,Eastbound,horizontal
+34,1747,1,20180111,20180307,0,0,0,1,1,1,0,Franklin Street-Finley Forest-Meadowmont,Safe Rides,Westbound,horizontal
+35,1749,0,20180111,20180307,0,0,0,1,1,1,0,Franklin Street-MLK Jr Boulevard-Timberlyne,Safe Rides,Northbound,horizontal
+36,1749,1,20180111,20180307,0,0,0,1,1,1,0,Franklin Street-MLK Jr Boulevard-Timberlyne,Safe Rides,Southbound,horizontal
+37,1734,0,20140101,20221231,0,0,0,0,0,1,0,Franklin St-University Place-Colony Woods,Year-round calendar (Saturday only),Eastbound,horizontal
+38,1734,1,20140101,20221231,0,0,0,0,0,1,0,Franklin St-University Place-Colony Woods,Year-round calendar (Saturday only),Westbound,horizontal
+39,1733,0,20171128,20211231,1,1,1,1,1,0,0,Friday Center Express,CHT EXPRESS (Monday-Friday),Eastbound,horizontal
+40,1733,1,20171128,20211231,1,1,1,1,1,0,0,Friday Center Express,CHT EXPRESS (Monday-Friday),Westbound,horizontal
+41,1730,0,20140101,20221231,0,0,0,0,0,1,0,Greenbridge - University Place - Eastowne,Year-round calendar (Saturday only),Northbound,horizontal
+42,1730,1,20140101,20221231,0,0,0,0,0,1,0,Greenbridge - University Place - Eastowne,Year-round calendar (Saturday only),Southbound,horizontal
+43,1739,0,20171128,20211231,1,1,1,1,1,0,0,Jones Ferry Road Express,CHT EXPRESS (Monday-Friday),Eastbound,horizontal
+44,1739,1,20171128,20211231,1,1,1,1,1,0,0,Jones Ferry Road Express,CHT EXPRESS (Monday-Friday),Westbound,horizontal
+45,1723,0,20140101,20221231,1,1,1,1,1,0,0,MLK Jr Blvd - Northside,Year-round calendar (Monday-Friday),Outbound,horizontal
+46,1723,1,20140101,20221231,1,1,1,1,1,0,0,MLK Jr Blvd - Northside,Year-round calendar (Monday-Friday),Inbound,horizontal
+47,1723,0,20180108,20180305,1,1,1,1,1,0,0,MLK Jr Blvd - Northside,Academic Calendar (Monday-Friday),Outbound,horizontal
+48,1750,0,20140101,20221231,1,1,1,1,1,0,0,MLK Jr Boulevard-UNC Hospitals,Year-round calendar (Monday-Friday),Northbound,horizontal
+49,1750,1,20140101,20221231,1,1,1,1,1,0,0,MLK Jr Boulevard-UNC Hospitals,Year-round calendar (Monday-Friday),Southbound,horizontal
+50,1751,0,20140101,20221231,0,0,0,0,0,1,0,MLK Jr Boulevard-UNC Hospitals,Year-round calendar (Saturday only),Northbound,horizontal
+51,1751,1,20140101,20221231,0,0,0,0,0,1,0,MLK Jr Boulevard-UNC Hospitals,Year-round calendar (Saturday only),Southbound,horizontal
+52,1736,0,20140101,20221231,1,1,1,1,1,0,0,Morris Grove Elementary-Chapel Hill High-Rogers Rd,Year-round calendar (Monday-Friday),Northbound,horizontal
+53,1736,1,20140101,20221231,1,1,1,1,1,0,0,Morris Grove Elementary-Chapel Hill High-Rogers Rd,Year-round calendar (Monday-Friday),Southbound,horizontal
+54,1736,0,20180108,20180305,1,1,1,1,1,0,0,Morris Grove Elementary-Chapel Hill High-Rogers Rd,Academic Calendar (Monday-Friday),Northbound,horizontal
+55,1736,1,20180108,20180305,1,1,1,1,1,0,0,Morris Grove Elementary-Chapel Hill High-Rogers Rd,Academic Calendar (Monday-Friday),Southbound,horizontal
+56,1743,0,20180107,20180114,0,0,0,0,0,1,1,RR Lot-UNC Hospitals,U & NU (Weekend),Northbound,horizontal
+57,1743,1,20180107,20180114,0,0,0,0,0,1,1,RR Lot-UNC Hospitals,U & NU (Weekend),Southbound,horizontal
+58,1743,0,20180108,20180305,1,1,1,1,1,0,0,RR Lot-UNC Hospitals,Academic Calendar (Monday-Friday),Northbound,horizontal
+59,1743,1,20180108,20180305,1,1,1,1,1,0,0,RR Lot-UNC Hospitals,Academic Calendar (Monday-Friday),Southbound,horizontal
+60,1743,0,20180116,20180305,0,0,0,0,0,1,1,RR Lot-UNC Hospitals,U & NU (Weekend),Northbound,horizontal
+61,1743,1,20180116,20180305,0,0,0,0,0,1,1,RR Lot-UNC Hospitals,U & NU (Weekend),Southbound,horizontal
+62,1746,0,20140101,20221231,1,1,1,1,1,0,0,South Campus-NC 54 Park-&-Ride,Year-round calendar (Monday-Friday),Eastbound,horizontal
+63,1746,1,20140101,20221231,1,1,1,1,1,0,0,South Campus-NC 54 Park-&-Ride,Year-round calendar (Monday-Friday),Westbound,horizontal
+64,6830,0,20140101,20221231,0,0,0,0,0,1,0,Southern Village - Meadowmont,Year-round calendar (Saturday only),Eastbound,horizontal
+65,6830,1,20140101,20221231,0,0,0,0,0,1,0,Southern Village - Meadowmont,Year-round calendar (Saturday only),Westbound,horizontal
+66,1753,0,20140101,20221231,1,1,1,1,1,0,0,Southern Village-Meadowmont,Year-round calendar (Monday-Friday),Eastbound,horizontal
+67,1753,1,20140101,20221231,1,1,1,1,1,0,0,Southern Village-Meadowmont,Year-round calendar (Monday-Friday),Westbound,horizontal
+68,1752,0,20140101,20221231,1,1,1,1,1,0,0,UNC Campus Shuttle-Downtown,Year-round calendar (Monday-Friday),Loop,horizontal
+69,1752,0,20180107,20180114,0,0,0,0,0,1,1,UNC Campus Shuttle-Downtown,U & NU (Weekend),Loop,horizontal
+70,1752,0,20180116,20180305,0,0,0,0,0,1,1,UNC Campus Shuttle-Downtown,U & NU (Weekend),Loop,horizontal
+71,1737,0,20140101,20221231,1,1,1,1,1,0,0,UNC Hospitals-Botanical Garden-54 Park-&-Ride-Hedrick Building,Year-round calendar (Monday-Friday),Eastbound,horizontal
+72,1737,1,20140101,20221231,1,1,1,1,1,0,0,UNC Hospitals-Botanical Garden-54 Park-&-Ride-Hedrick Building,Year-round calendar (Monday-Friday),Westbound,horizontal

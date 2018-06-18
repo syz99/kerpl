@@ -1,0 +1,164 @@
+stop_id,stop_city
+778445,Chapel Hill
+778449,Chapel Hill
+778461,Chapel Hill
+778474,Chapel Hill
+778482,Chapel Hill
+778484,Chapel Hill
+778485,
+778495,
+778496,
+778497,Chapel Hill
+778498,Chapel Hill
+778500,Chapel Hill
+778501,Chapel Hill
+778513,Chapel Hill
+778515,Chapel Hill
+778516,Chapel Hill
+778518,Chapel Hill
+778519,Chapel Hill
+778528,Chapel Hill
+778529,Chapel Hill
+778533,Chapel Hill
+778537,Chapel Hill
+778539,Chapel Hill
+778540,Chapel Hill
+778542,Chapel Hill
+778543,Chapel Hill
+778549,Chapel Hill
+778551,Chapel Hill
+778560,Carrboro
+778562,Carrboro
+778567,Carrboro
+778570,Carrboro
+778571,Chapel Hill
+778575,Chapel Hill
+778581,Chapel Hill
+778594,Chapel Hill
+778598,Chapel Hill
+778632,Chapel Hill
+778633,Chapel Hill
+778635,Chapel Hill
+778636,Chapel Hill
+778638,Chapel Hill
+778643,Chapel Hill
+778649,Chapel Hill
+778650,Chapel Hill
+778655,Chapel Hill
+778656,Chapel Hill
+778661,Chapel Hill
+778662,Chapel Hill
+778670,Chapel Hill
+778671,Chapel Hill
+778682,Chapel Hill
+778697,Chapel Hill
+778698,Chapel Hill
+778699,Chapel Hill
+778700,Chapel Hill
+778706,Chapel Hill
+778712,Chapel Hill
+778715,Chapel Hill
+778717,Chapel Hill
+778719,Chapel Hill
+778720,Chapel Hill
+778724,Chapel Hill
+778725,Chapel Hill
+778726,Chapel Hill
+778727,Chapel Hill
+778728,Chapel Hill
+778731,Chapel Hill
+778732,Chapel Hill
+778735,Chapel Hill
+778736,Chapel Hill
+778737,Chapel Hill
+778738,Chapel Hill
+778739,Chapel Hill
+778740,Chapel Hill
+778741,Chapel Hill
+778742,Chapel Hill
+778748,Chapel Hill
+778750,Chapel Hill
+778751,Chapel Hill
+778756,Chapel Hill
+778757,Chapel Hill
+778758,Chapel Hill
+778759,Chapel Hill
+778767,Chapel Hill
+778771,Chapel Hill
+778772,Chapel Hill
+778773,Chapel Hill
+778774,Chapel Hill
+778775,Chapel Hill
+778784,Chapel Hill
+778785,Chapel Hill
+778786,Chapel Hill
+778787,Chapel Hill
+778789,Chapel Hill
+778790,Chapel Hill
+778791,Carrboro
+778804,Chapel Hill
+778806,Chapel Hill
+778807,Chapel Hill
+778816,Chapel Hill
+778817,Chapel Hill
+778819,Chapel Hill
+778822,Chapel Hill
+778823,Chapel Hill
+778825,Chapel Hill
+778826,Chapel Hill
+778827,Chapel Hill
+778829,Chapel Hill
+778830,Chapel Hill
+778832,Chapel Hill
+778846,Carrboro
+778849,Chapel Hill
+778858,Chapel Hill
+778860,Chapel Hill
+778867,Carrboro
+778868,Chapel Hill
+778872,Carrboro
+778881,Chapel Hill
+778891,Carrboro
+778919,
+778920,Carrboro
+778925,Chapel Hill
+778927,Durham
+778931,Chapel Hill
+778937,Chapel Hill
+778938,Carrboro
+778942,
+778948,Chapel Hill
+778949,Chapel Hill
+778954,Carrboro
+778970,Chapel Hill
+778971,Chapel Hill
+778972,Chapel Hill
+778981,Chapel Hill
+778982,Chapel Hill
+778983,Chapel Hill
+778984,Chapel Hill
+778988,Chapel Hill
+778997,Chapel Hill
+778998,Chapel Hill
+778999,Chapel Hill
+779000,Chapel Hill
+779003,Chapel Hill
+779004,Chapel Hill
+779021,
+779022,
+779023,Chapel Hill
+786483,Hillsborough
+801352,Chapel Hill
+801471,Chapel Hill
+801472,Chapel Hill
+810901,Chapel Hill
+810902,Chapel Hill
+847571,Chapel Hill
+2329779,Carrboro
+2329780,Carrboro
+2329781,Carrboro
+2329782,Carrboro
+2335538,Chapel Hill
+2382781,Chapel Hill
+2382799,Chapel Hill
+2382800,Chapel Hill

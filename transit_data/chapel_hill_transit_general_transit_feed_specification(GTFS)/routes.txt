@@ -1,0 +1,32 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+243,6821,B,Baity Hill - UNC Hospitals - Fetzer Gym,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/b-route,00ffff,000000,0,20
+243,1735,G,Booker Creek-University Place-UNC Hospitals ,,3,,00ffff,000000,1,98
+243,1729,D,Culbreth Road - Franklin Street - Eastowne,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/d-route,00ffff,000000,10,20
+243,1741,N,Estes Park-UNC Hospitals-Family Medicine,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/n-route,00ffff,000000,11,30
+243,1740,JN - Saturday,Estes Park-UNC Hospitals-Jones Ferry Road,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/jn-route-saturday,00ffff,000000,12,75
+243,1742,NS,Eubanks Road-Southern Village,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/ns-route,00ffff,000000,13,10
+243,1748,Safe Ride J,Franklin Street-Carrboro-Rock Haven Road,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/safe-ride-j-route,00ffff,000000,14,15
+243,1747,Safe Ride G,Franklin Street-Finley Forest-Meadowmont,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/safe-ride-g-route,00ffff,000000,15,60
+243,1749,Safe Ride T,Franklin Street-MLK Jr Boulevard-Timberlyne,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/safe-ride-t-route,00ffff,000000,16,30
+243,1734,FG - Saturday,Franklin St-University Place-Colony Woods,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/fg-route-saturday,00ffff,000000,17,80
+243,1733,FCX,Friday Center Express,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/fcx-route,00ffff,000000,18,5
+243,1730,D - Saturday,Greenbridge - University Place - Eastowne,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/d-route-saturday,00ffff,000000,19,65
+243,1745,RU,Campus Reverse Shuttle-Law School,,3,,00ffff,000000,2,10
+243,1739,JFX,Jones Ferry Road Express,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/jfx-route,00ffff,000000,20,15
+243,1723,A,MLK Jr Blvd - Northside,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/a-route,00ffff,000000,21,30
+243,1750,T,MLK Jr Boulevard-UNC Hospitals,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/t-route,00ffff,000000,22,30
+243,1751,T - Saturday,MLK Jr Boulevard-UNC Hospitals,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/t-route-saturday,00ffff,000000,23,60
+243,1736,HS,Morris Grove Elementary-Chapel Hill High-Rogers Rd,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/hs-route,00ffff,000000,24,30
+243,1743,NU,RR Lot-UNC Hospitals,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/nu-route,00ffff,000000,26,45
+243,1746,S,South Campus-NC 54 Park-&-Ride,,3,,00ffff,000000,27,10
+243,1753,V,Southern Village-Meadowmont,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/v-route,00ffff,000000,28,80
+243,1752,U,UNC Campus Shuttle-Downtown,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/u-route,00ffff,000000,29,15
+243,1738,J,Carrboro-Downtown Chapel Hill-Jones Ferry Road,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/j-route,00ffff,000000,3,15
+243,1737,HU,UNC Hospitals-Botanical Garden-54 Park-&-Ride-Hedrick Building,,3,,00ffff,000000,30,39
+243,1726,CM,Carrboro-Merritt Mill Road-Family Medicine,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/cm-route,00ffff,000000,4,30
+243,1727,CPX,Carrboro Plaza Express,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/cpx-route,00ffff,000000,5,15
+243,1728,CW,Carrboro - Weaver Street,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/cw-route,00ffff,000000,6,20
+243,1724,CCX,Chatham County Express,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/ccx-route,00ffff,000000,7,15
+243,1725,CL,Colony Lake - Sage Rd - UNC Hospitals,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/cl-route,00ffff,000000,8,58
+243,1732,F,Colony Woods - Franklin Street - McDougle School,,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/f-route,00ffff,000000,9,60
+243,6830,V - Saturday,Southern Village - Meadowmont,New route connecting Southern Village and Meadowmont to main campus and UNC Hospitals on Saturdays.,3,http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules/v-route-saturday,00ffff,000000,,60

@@ -1,5 +1,51 @@
-body {
-    background-image: url("static/img/oldwell.jpg") no-repeat cover;
-    background-color: white;
+body,html {
+    font-family: 'Lato';
+    height: 100%;
+    margin: 0 auto;
     color: white;
+    text-align: center;
 }
+
+div {
+    border: 1px dotted white; /* Delete */
+}
+
+#dashboard {
+    background-image: url(/static/img/bg1.jpg);
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+       -moz-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
+}
+
+.container {
+    position: relative;
+    margin: 150px auto;
+    width: 60%;
+    font-size: 150px;
+    text-align: center;
+}
+
+@media(max-width:767px) {
+    .container {
+        color: black;
+    }
+}
+
+.foot {
+    position: fixed;
+    bottom: 0%;
+}
+
+.nav, .foot {
+    font-size: 20px;
+    height: 25px;
+    width: 100%;
+}
+
+

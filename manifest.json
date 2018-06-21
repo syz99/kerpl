@@ -6,7 +6,7 @@
   "author": "Samuel Zhang",
   
   "page_action": {
-    "default_icon": "unc.png",
+    "default_icon": "static/img/unc.png",
     "default_title": "kerplUNC"
   },
 
